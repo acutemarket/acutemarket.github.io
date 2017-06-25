@@ -1,0 +1,20 @@
+<!-- About row -->
+                            {% assign subject = about.subject %}
+                            {% if subject.pos == "left" %}
+                        <li>
+                            {% else %}
+                        <li class="timeline-inverted">
+                            {% endif %}
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="/img/about/{{ subject.img }}" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>{{ subject.heading }}</h4>
+                                    <h4 class="subheading">{{ subject.subheading }}</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">{{ subject.text }}</p>
+                                </div>
+                            </div>
+                        </li>

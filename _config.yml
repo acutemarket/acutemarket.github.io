@@ -1,0 +1,27 @@
+url: https://acute.github.io
+baseurl:
+destination: _site
+
+# Site settings
+title: Acute Market
+copyright: Vitec Software Group, Health
+email: myynti@vitecsoftware.com
+quote: If you can dream it, you can do it
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/AcuteFinland
+  - title: twitter
+    url: https://twitter.com/Acute_Finland
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Aleksanterinkatu 32 B
+  - line: 33100 Tampere
+  - line: Finland
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty

@@ -1,0 +1,36 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 text-left">
+                    <p>
+                        <a href="/#about">{{ site.data.texts.about[lang].title }}</a>
+                    </p>
+                    <p>
+                        <a href="/#portfolio">{{ site.data.texts.other[lang].infolink }}</a>
+                    </p>
+                </div>
+                <div class="col-md-4 text-left">
+                </div>
+                <div class="col-md-4 text-left">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 text-left">
+                    <span class="copyright">Copyright &copy; {{ site.copyright }} {{ 'now' | date: "%Y" }}</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4 text-right">
+                    <span>
+                        {{ site.quote }}
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>

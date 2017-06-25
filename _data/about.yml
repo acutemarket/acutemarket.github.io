@@ -1,0 +1,24 @@
+- subject:
+    img: 1.jpg
+    pos: left
+    heading: Haluamme
+    subheading: edistää monitoimijakulttuuria terveydenhuollon tietojärjestelmien kehittämisessä.
+    text: Yhdessä tekemällä syntyy enemmän uusia ajatuksia ja uuden kehittäminen on nopeampaa.
+
+- subject:
+    img: 2.jpg
+    pos: right
+    heading: Digitalisaatio
+    subheading: tulee terveydenhuoltoon vauhdilla. Sen vaatimat ratkaisut eivät synny yksin tekemällä.
+    text: Nopea reagointi uusiin haasteisiin vaatii skaalautumiskykyä. Acute Marketista
+          löytyy valmiita ratkaisuja ja kokeneita konsultteja.
+
+- subject:
+    img: 3.jpg
+    pos: left
+    heading: Uskomme
+    subheading: erilaisuuteen ja erikoistumiseen.
+    text: Me kehitämme Acutea tuotepohjaisesti, mutta ymmärrämme, että yksi tuote ei koskaan voi
+          vastata kaikkiin haasteisiin, joissa tämän päivän digitalisoituva terveydenhuolto elää.
+
+

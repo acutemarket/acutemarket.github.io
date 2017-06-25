@@ -1,0 +1,43 @@
+<!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row first">
+                <div class="btn-group" data-toggle="buttons">
+                    <label class="btn btn-info active">
+                        <input type="radio" name="filter" id="filter-all" class="category category-all" autocomplete="off" checked>kaikki
+                    </label>
+                {% assign sorted_cats = site.categories | sort %}
+                {% for category in sorted_cats %}
+                    {% assign catname = category | first %}
+                    <label class="btn btn-info">
+                        <input type="radio" name="filter" id="filter-{{ catname }}" class="category category-{{ catname }}" autocomplete="off">{{ catname }}
+                    </label>
+                {% endfor %}
+
+            </div>
+            <div class="row">
+                {% for post in site.posts %}
+                {% assign cats = post.categories | join:', ' %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="{{ post.url }}" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <div class="portfolio-img">
+                            <span class="helper"></span>
+                            <img src="/icons/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        </div>
+						<div class="portfolio-caption">
+							<h4>{{ post.title }}</h4>
+							<p class="text-primary">{{ post.intro }}</p>
+                            <p class="text-primary post-categories">{{ cats }}</p>
+
+						</div>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
