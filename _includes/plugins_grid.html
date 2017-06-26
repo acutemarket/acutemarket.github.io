@@ -3,22 +3,23 @@
         <div class="container">
             <div class="row first">
                 <div class="btn-group" data-toggle="buttons">
-                    <label class="btn btn-info active">
-                        <input type="radio" name="filter" id="filter-all" class="category category-all" autocomplete="off" checked>kaikki
+                    <label class="btn btn-info active" id="all-category">
+                        <input type="radio" name="filter" autocomplete="off" checked>kaikki
                     </label>
                 {% assign sorted_cats = site.categories | sort %}
                 {% for category in sorted_cats %}
                     {% assign catname = category | first %}
-                    <label class="btn btn-info">
-                        <input type="radio" name="filter" id="filter-{{ catname }}" class="category category-{{ catname }}" autocomplete="off">{{ catname }}
+                    <label class="btn btn-info" id="{{ catname }}-category">
+                        <input type="radio" name="filter-{{ catname }}" autocomplete="off">{{ catname }}
                     </label>
                 {% endfor %}
-
+                </div>
             </div>
             <div class="row">
                 {% for post in site.posts %}
                 {% assign cats = post.categories | join:', ' %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                {% assign selectors = post.categories | join: '-category ' | append: '-category' %}
+                <div class="col-md-4 col-sm-6 portfolio-item all-category {{ selectors }}">
                     <a href="{{ post.url }}" class="portfolio-link">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">

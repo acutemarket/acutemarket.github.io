@@ -6,7 +6,7 @@ date: 2017-06-20
 thumbnail: data_cloud.png
 img: vitec/acusphere.png
 logo: vitec/vitec_logo.png
-categories: tiedonsiirrot rest
+categories: tiedonsiirrot muut
 ---
 
 Acuten REST API mahdollistaa ulkoisten sovellusten joustavan ja avoimen liittämisen Acute-järjestelmään. 
