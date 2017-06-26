@@ -1,8 +1,8 @@
 ---
-title: Acute palkkiolaskenta
-intro: Automatisoi ammatinharjoittajien palkkioiden laskenta ja tilitys, määrittele laskennan perusteet ja seuraa tilityksiä
+title: Acute potilastietojen import
+intro: Siirrä potilas- ja yritysasiakastietojat ulkopuolisesta järjestelmästä Acute-järjestelmään
 layout: post
-date: 2017-06-21
+date: 2017-06-23
 thumbnail: folder_into.png
 img: 
 logo: vitec/vitec_logo.png

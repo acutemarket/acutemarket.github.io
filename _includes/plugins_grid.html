@@ -16,7 +16,8 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
+                {% assign products = site.posts | sort: 'title' %}
+                {% for post in products %}
                 {% assign cats = post.categories | join:', ' %}
                 {% assign selectors = post.categories | join: '-category ' | append: '-category' %}
                 <div class="col-md-4 col-sm-6 portfolio-item all-category {{ selectors }}">
