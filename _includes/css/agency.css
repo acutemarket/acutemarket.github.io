@@ -353,6 +353,7 @@ article img {
 .post-template article h4 {
     border-bottom: solid 1px #ccc;;
     line-height: 1.7em;
+    text-align: left;
 }
 
 .post-template li {
