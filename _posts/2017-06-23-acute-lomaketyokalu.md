@@ -27,7 +27,7 @@ Täytetyt ja tulostetut lomakkeet tallentuvat Acutessa kertomustietoihin rakente
 - Täytetyt ja tulostetut lomakkeet tallentuvat rakenteisena osaksi potilaskertomusta.
 - Organisaatiossa päästään eroon paperisista lomakkeista.
 
-#### Valmiit, suoraan tilattavaissa olevat lomakkeet
+#### Valmiit, suoraan tilattavissa olevat lomakkeet
 
 - Ilmoitus todetusta ammattitaudista (suomeksi)
 - Ilmoitus todetusta ammattitaudista (ruotsiksi)
