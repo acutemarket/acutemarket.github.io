@@ -10,7 +10,7 @@
                 {% for category in sorted_cats %}
                     {% assign catname = category | first %}
                     <label class="btn btn-info" id="{{ catname }}-category">
-                        <input type="radio" name="filter-{{ catname }}" autocomplete="off">{{ catname }}
+                        <input type="radio" name="filter-{{ catname }}">{{ catname }}
                     </label>
                 {% endfor %}
                 </div>
