@@ -455,8 +455,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.2); /* Fallback when no plugin support */
-    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .2);
+    background: rgba(16, 133, 239, .2);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
