@@ -12,7 +12,9 @@ categories: talous
 <i class="fa fa-euro fa-5x fa-pull-left" aria-hidden="true"></i>
 Acuten palkkiolaskenta mahdollistaa ammatinharjoittajien palkkioiden automaattisen laskennan, tilityksen, palkkioperusteiden joustavan määrittelyn sekä monipuolisen raportoinnin.
 
-Acuten palkkiolaskenta–palvelu sisältää seuraavat ominaisuudet ja toiminnot:
+#### ominaisuudet ja toiminnot
+
+
 - Palkkioperusteet voivat olla erilaiset eri yksiköissä ja eri palkkionsaajilla. Palkkiot voivat perustua tapahtumakohtaisesti joko kiinteään laitososuuteen, kiinteään palkkioon tai palkkioprosenttiin. Vuokra voidaan määritellä joko kiinteänä tai vähimmäis-kuukausivuokrana.
 - Palkkiot lasketaan automaattisesti öisin ja tietyissä tilanteissa välittömästi.
 - Palkkioihin voidaan tehdä helposti korjauksia, niitä voidaan lisätä myös manuaalisesti ja niistä voidaan vähentää erilaisia erilliseriä.
@@ -22,7 +24,7 @@ Acuten palkkiolaskenta–palvelu sisältää seuraavat ominaisuudet ja toiminnot
 - Palkkioiden tilitys voi perustua maksettuihin asiakaslaskuihin, jos Acuten uusi myyntireskontra on käytössä.
 - Palkkioiden siirto palkanlaskenta- ja kirjanpitojärjestelmään sekä pankkiyhteysohjelmaan voi vaatia uusia asiakaskohtaisia tiedonsiirtoja.
 
-### PALVELUN HYÖDYT
+#### PALVELUN HYÖDYT
 
 - Tarjoaa uusia mahdollisuuksia tukemalla kaikkia yleisesti käytössä olevia palkkioiden määräytymistapoja ja palkkioiden tilitystä maksettujen myyntilaskujen perusteella.  
 - Helpottaa ja vähentää käyttäjien työtä automatisoimalla palkkiolaskennan vaiheita.

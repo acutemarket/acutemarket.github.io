@@ -338,7 +338,7 @@ header .intro-text .intro-heading p {
 }
 
 article img {
-    width: 80%;
+    width: 45%;
     margin-bottom: 20px;
 }
 
@@ -413,6 +413,10 @@ section h3.section-subheading {
 #portfolio .row.first {
     margin-bottom: 40px;
     padding-left: 20px;
+}
+
+#portfolio .row.first .btn {
+    font-size: 16px;
 }
 
 #portfolio .portfolio-item {
