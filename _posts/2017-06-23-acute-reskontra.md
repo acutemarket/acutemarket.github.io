@@ -1,6 +1,6 @@
 ---
 title: Acute reskontra
-intro: Integroi reskontran toiminnot suoraan Acuten laskutukseen ja palkkioihin
+intro: Integroi reskontran toiminnot suoraan Acuten laskutukseen ja palkkioihin.
 layout: post
 date: 2017-06-22
 thumbnail: hand_money.png

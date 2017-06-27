@@ -1,6 +1,6 @@
 ---
 title: Acute eArkisto
-intro: Kytke potilastietojärjestelmäsi kansalliseen eArkistoon
+intro: Kytke potilastietojärjestelmäsi kansalliseen eArkistoon.
 layout: post
 date: 2017-06-21
 thumbnail: cabinet2.png

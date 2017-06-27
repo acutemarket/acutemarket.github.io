@@ -1,6 +1,6 @@
 ---
 title: Työnantaja extranet
-intro: Tehosta yhteydenpitoa työterveysasiakkaisiin
+intro: Tehosta yhteydenpitoa työterveysasiakkaisiin.
 layout: post
 date: 2017-06-21
 thumbnail: users_relation.png

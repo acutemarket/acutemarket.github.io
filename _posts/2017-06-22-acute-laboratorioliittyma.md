@@ -1,6 +1,6 @@
 ---
 title: Acute laboratorioliittymä
-intro: Tehosta laboratoriolähetteiden ja -tulosten käsittelyä
+intro: Tehosta laboratoriolähetteiden ja -tulosten käsittelyä.
 layout: post
 date: 2017-06-23
 thumbnail: pipette_test.png

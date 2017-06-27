@@ -1,36 +1,47 @@
   <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4 text-left">
-                    <p>
-                        <a href="/#about">{{ site.data.texts.about[lang].title }}</a>
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                	<p>Myynti 
+                        <a href="tel:+358333950910">
+                            03 3395 0910
+                        </a>
+                        <br> 
+                        <a href="mailto:myynti@vitecsoftware.com">
+                            myynti@vitecsoftware.com&nbsp;
+                        </a>
                     </p>
-                    <p>
-                        <a href="/#portfolio">{{ site.data.texts.other[lang].infolink }}</a>
+                    <p>Vaihde 
+                        <a href="tel:+358333950900">
+                            03 3395 0900
+                        </a>
+                        <br>
+                        <a href="mailto:suomi@vitecsoftware.com">
+                            suomi@vitecsoftware.com
+                        </a>
                     </p>
                 </div>
-                <div class="col-md-4 text-left">
+                <div class="col-sm-3 col-md-3 col-lg-3">
                 </div>
-                <div class="col-md-4 text-left">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <p>
+                        <img class="img-responsive" src="http://acute.fi/files/3314/8414/4207/white_logo.png" alt="" width="200" height="46">
+                    </p>
+                    <p>
+                        <a href="http://www.vitec.fi/" target="_blank">
+                            <img class="img-responsive" src="http://acute.fi/files/8214/8716/0563/vitec_logo.png" alt="" width="200" height="28">
+                        </a>
+                    </p>
+                    <p>
+                        <ul class="list-inline">
+                            {% for network in site.social %}
+                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </p>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4 text-left">
-                    <span class="copyright">Copyright &copy; {{ site.copyright }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4 text-right">
-                    <span>
-                        {{ site.quote }}
-                    </span>
-                </div>
             </div>
         </div>
     </footer>

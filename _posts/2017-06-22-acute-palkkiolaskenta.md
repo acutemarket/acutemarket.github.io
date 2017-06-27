@@ -1,6 +1,6 @@
 ---
 title: Acute palkkiolaskenta
-intro: Automatisoi ammatinharjoittajien palkkioiden laskenta ja tilitys
+intro: Automatisoi ammatinharjoittajien palkkioiden laskenta ja tilitys.
 layout: post
 date: 2017-06-21
 thumbnail: moneybag_euro.png

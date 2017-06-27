@@ -1,6 +1,6 @@
 ---
-title: Resurssien ajankäytön seuranta
-intro: Seuraa ja tehosta henkilöstön ajankäyttöä
+title: Ajankäytön seuranta
+intro: Seuraa ja tehosta henkilöstön ajankäyttöä.
 layout: post
 date: 2017-06-21
 thumbnail: calendar_clock.png

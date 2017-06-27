@@ -1,6 +1,6 @@
 ---
 title: Potilastietojen export
-intro: Siirrä potilastiedot sähköisessä muodossa Acutesta toiseen järjestelmään
+intro: Siirrä potilastiedot sähköisessä muodossa Acutesta toiseen järjestelmään.
 layout: post
 date: 2017-06-21
 thumbnail: folder_out.png

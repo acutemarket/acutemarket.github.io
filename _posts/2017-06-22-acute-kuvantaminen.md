@@ -1,6 +1,6 @@
 ---
 title: Acute kuvantamisliittymä
-intro: Kytke Acute-asennuksesi saumattomasti kuvantamisen järjestelmään
+intro: Kytke Acute-asennuksesi saumattomasti kuvantamisen järjestelmään.
 layout: post
 date: 2017-06-21
 thumbnail: portfolio_folder.png

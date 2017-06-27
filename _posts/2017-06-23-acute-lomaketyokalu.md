@@ -1,6 +1,6 @@
 ---
 title: Acute lomakkeet
-intro: Lisää Acute-järjestelmääsi uusia lomakkeita
+intro: Lisää Acute-järjestelmääsi uusia lomakkeita.
 layout: post
 date: 2017-06-23
 thumbnail: form.png

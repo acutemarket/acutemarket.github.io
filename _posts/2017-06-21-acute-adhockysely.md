@@ -1,6 +1,6 @@
 ---
 title: Acute AdHoc-tietokantakysely
-intro: Poimi mitä tahansa tietoa Acutesta ja ota listauksia omien tarpeidesi mukaisesti
+intro: Poimi mitä tahansa tietoa Acutesta ja ota listauksia omien tarpeidesi mukaisesti.
 date: 2017-06-21
 thumbnail: presentation_chart.png
 img: vitec/acute-adhoc.png

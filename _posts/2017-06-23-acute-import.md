@@ -1,6 +1,6 @@
 ---
 title: Potilastietojen import
-intro: Siirrä potilas- ja yritysasiakastietojat ulkopuolisesta järjestelmästä Acute-järjestelmään
+intro: Siirrä potilas- ja yritysasiakastietojat ulkopuolisesta järjestelmästä Acute-järjestelmään.
 layout: post
 date: 2017-06-23
 thumbnail: folder_into.png

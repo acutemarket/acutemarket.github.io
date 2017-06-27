@@ -1,6 +1,6 @@
 ---
 title: Acute eResepti
-intro: Tee Acute-järjestelmästäsi eResepti-yhteensopiva
+intro: Tee Acute-järjestelmästäsi eResepti-yhteensopiva.
 layout: post
 date: 2017-06-23
 thumbnail: bottle_of_pills.png

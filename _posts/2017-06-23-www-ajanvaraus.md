@@ -1,6 +1,6 @@
 ---
 title: Acute WWW-ajanvaraus
-intro: Tarjoa asiakkaillesi mobiili ajanvaraussovellus
+intro: Tarjoa asiakkaillesi mobiili ajanvaraussovellus.
 layout: post
 date: 2017-06-21
 thumbnail: earth2.png
