@@ -1,12 +1,12 @@
 - subject:
-    img: 1.jpg
+    img: 5.png
     pos: left
     heading: Haluamme
     subheading: edistää monitoimijakulttuuria terveydenhuollon tietojärjestelmien kehittämisessä.
     text: Yhdessä tekemällä syntyy enemmän uusia ajatuksia ja uuden kehittäminen on nopeampaa.
 
 - subject:
-    img: 2.jpg
+    img: 4.png
     pos: right
     heading: Digitalisaatio
     subheading: valtaa terveydenhuoltoa vauhdilla. Sen vaatimat ratkaisut eivät synny yksin tekemällä.
@@ -14,7 +14,7 @@
           löytyy valmiita ratkaisuja ja kokeneita konsultteja.
 
 - subject:
-    img: 3.jpg
+    img: 6.png
     pos: left
     heading: Uskomme
     subheading: erilaisuuteen ja erikoistumiseen.
