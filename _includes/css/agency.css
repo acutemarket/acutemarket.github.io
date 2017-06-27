@@ -420,16 +420,17 @@ section h3.section-subheading {
     margin: 0 0 15px 0;
     padding: 0;
     height: 380px;
+    position: relative;
 }
 
 
 #portfolio .portfolio-item img {
-    max-height: 200px;
+    max-height: 150px;
     opacity: 0.6;
 }
 
 #portfolio .portfolio-img {
-    height: 200px;
+    height: 150px;
     margin: 25px 0 0 0;
 }
 
@@ -506,10 +507,14 @@ section h3.section-subheading {
     z-index: 2;
 }
 
-#portfolio .portfolio-item .portfolio-caption p.post-categories {
+#portfolio .portfolio-item .post-categories {
     font-style: normal;
     font-size: small;
+    width: 100%;
     text-align: right;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 20px 10px 10px;
 }
 
 @media(min-width:767px) {

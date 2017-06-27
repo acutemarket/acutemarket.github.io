@@ -1,6 +1,6 @@
 ---
 title: Acute laskuhotelli
-intro: Sähköistä koko laskutusprosessisi ja säästä työtä, toimita laskusi nopeammin perille ja paranna samalla asiakaspalveluasi
+intro: Sähköistä koko laskutusprosessisi, säästä työtä ja paranna samalla asiakaspalveluasi
 layout: post
 date: 2017-06-20
 thumbnail: document_text.png

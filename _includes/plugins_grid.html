@@ -20,7 +20,7 @@
                 {% for post in products %}
                 {% assign cats = post.categories | join:', ' %}
                 {% assign selectors = post.categories | join: '-category ' | append: '-category' %}
-                <div class="col-md-4 col-sm-6 portfolio-item all-category {{ selectors }}">
+                <div class="col-md-3 col-sm-6 portfolio-item all-category {{ selectors }}">
                     <a href="{{ post.url }}" class="portfolio-link">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -34,9 +34,10 @@
 						<div class="portfolio-caption">
 							<h4>{{ post.title }}</h4>
 							<p class="text-primary">{{ post.intro }}</p>
-                            <p class="text-primary post-categories">{{ cats }}</p>
-
 						</div>
+                        <div class="post-categories text-muted">
+                            {{ cats }}
+                        </div>
                     </a>
                 </div>
                 {% endfor %}

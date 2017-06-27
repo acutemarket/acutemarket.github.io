@@ -1,6 +1,6 @@
 ---
 title: Acute REST-API
-intro: Avoin ja laajennettava rajapinta, jolla kytket muut järjestelmät reaaliaikaisesti Acuten tietoihin
+intro: Kytke muita järjestelmiä reaaliaikaisesti Acuten tietoihin
 layout: post
 date: 2017-06-20
 thumbnail: data_cloud.png

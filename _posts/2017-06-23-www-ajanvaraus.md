@@ -1,6 +1,6 @@
 ---
 title: Acute WWW-ajanvaraus
-intro: Sähköinen ajanvaraussovellus,  joka toimii myös mobiililaitteissa
+intro: Tarjoa asiakkaillesi mobiili ajanvaraussovellus
 layout: post
 date: 2017-06-21
 thumbnail: earth2.png
