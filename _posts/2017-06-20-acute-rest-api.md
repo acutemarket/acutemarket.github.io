@@ -4,7 +4,6 @@ intro: Kytke muita järjestelmiä Acuteen avoimen ohjelmointirajapinnan kautta.
 layout: post
 date: 2017-06-20
 thumbnail: data_cloud.png
-img: vitec/acusphere.png
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot muut
 ---
