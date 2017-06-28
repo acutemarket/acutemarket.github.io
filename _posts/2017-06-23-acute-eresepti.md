@@ -1,6 +1,6 @@
 ---
 title: Acute eResepti
-intro: Tee Acute-järjestelmästäsi eResepti-yhteensopiva.
+intro: Siirry sähköisen reseptin käyttöön ja tee Acute-järjestelmästäsi eResepti-yhteensopiva.
 layout: post
 date: 2017-06-23
 thumbnail: bottle_of_pills.png
@@ -10,7 +10,8 @@ categories: kanta
 ---
 Acuten eResepti sisältää eResepti-toiminnallisuuden ja sen sähköisten liittymien lisäksi muita lisätoimintoja, kuten uusimispyyntöjen käsittelyn. Palvelu on kiinteä, sisäänrakennettu osa Acute-järjestelmää. 
 
-Sähköinen yhteys reseptikeskukseen voidaan tehdä joko Vitecin Terveysviestikeskuksen avulla tai tukeutuen asiakkaan omaan infrastruktuurin. Palveluntarjoajalla on siis halutessaan mahdollisuus käyttää omaa liityntäpistettään.
+Sähköinen yhteys reseptikeskukseen voidaan kytkeä joko Vitecin Terveysviestikeskuksen kautta tai tukeutuen jo olemassaolevaan omaan infrastruktuurin, 
+omaan välityspisteeseen ja allekirjoituspalveluun. 
 
 Palvelun avulla voidaan määrätä kansalliset vaatimukset täyttäviä eReseptejä,
 tarkastella reseptikeskuksen tietoja ja tehdä, vastaanottaa ja toimittaa uusimispyyntöjä.
@@ -32,4 +33,5 @@ tarkastella reseptikeskuksen tietoja ja tehdä, vastaanottaa ja toimittaa uusimi
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

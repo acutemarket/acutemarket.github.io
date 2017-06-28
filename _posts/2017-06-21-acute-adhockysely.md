@@ -1,6 +1,6 @@
 ---
 title: Acute AdHoc-tietokantakysely
-intro: Poimi mitä tahansa tietoa Acutesta ja ota listauksia omien tarpeidesi mukaisesti.
+intro: Poimi tietoa Acutesta ja ota listauksia omien tarpeidesi mukaisesti.
 date: 2017-06-21
 thumbnail: presentation_chart.png
 img: vitec/acute-adhoc.png
@@ -9,21 +9,22 @@ layout: post
 categories: raportointi
 ---
 
-Acuten AdHoc-tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja louhintaa. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa pienimuotoisia kyselyitä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  
+Acuten AdHoc-tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja jatkojalostamista. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa listamuotoisia kyselyitä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  
 
-Työkalu toimii siten, että Acuteen lisätään toiminnallisuus, josta voi "tilata" räätälöityjä tietokantakyselyitä. Räätälöidyt tietokantakyselyt voidaan toteuttaa joko Vitecin asiantuntijan tai Acusfäärin IT-spesialistin toimesta. Toteutuksen jälkeen kysely on aina käytettävissä ilman erillistä "tilausta" tai pyyntöä. 
+Työkalu toimii siten, että Acuteen lisätään toiminnallisuus, jolla voi toteuttaa räätälöityjä tietokantakyselyitä. Räätälöidyt tietokantakyselyt voidaan toteuttaa joko Vitecin asiantuntijan tai Acusfäärin IT-spesialistin toimesta. Toteutuksen jälkeen kysely on aina käytettävissä ilman erillistä "tilausta" tai pyyntöä. 
 
-### PALVELUN HYÖDYT
+#### PALVELUN HYÖDYT
 
-- Acuteen tallennettu tieto on monipuolisesti käytettävissä ja jalostettavissa.
-- Joustava tapa tuottaa tietoa päätösten tueksi.
+- Acuteen tallennettu tieto on käytettävissä ja jalostettavissa muissa ohjelmissa.
+- Kysely on joustava tapa tuottaa tietoa päätösten tueksi.
 - Ratkaisu yksilöllisiin tiedonkeruutarpeisiin.
 - Poimittavan datan sisältö ja hakusäännöt ovat räätälöidysti määriteltävissä.
 - Toiminnallisuudella on helppo täydentää raportointia.
-- Mahdollistaa minkä tahansa Acutessa olevan tiedon louhinnan.
+- Mahdollistaa minkä tahansa Acutessa olevan tiedon siirron ulkopuoliseen työkaluun.
 - Kyselyn tulosjoukko on Excel-yhteensopiva, joten sen hyödyntäminen muissa tietojärjestelmissä on helppoa.
 
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

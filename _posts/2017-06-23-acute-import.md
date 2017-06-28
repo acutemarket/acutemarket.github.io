@@ -29,4 +29,5 @@ Acuten Import mahdollistaa potilastietojen ja yritysasiakkaiden perustietojen tu
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

@@ -12,12 +12,12 @@ Acuten uusi reskontra -palvelu tarjoaa kattavan reskontratoiminnallisuuden, joka
 
 #### Ominaisuudet
 
-- Monikäyttöinen laskujen hakunäkymä, jossa laskuja voidaan hakea laskutusaikavälin, laskuttavan yksikön, maksajan tyypin ja laskun tilan perusteella sekä vapaalla tekstihaulla. 
-- Laskujen hakunäkymässä on mahdollisuus muodostaa valittujen maksamattomien laskujen perusteella maksumuistutuksia ja ajanvarauskieltoja automaattisesti.
+- Monipuolinen laskujen hakunäkymä, jossa laskuja voidaan hakea laskutusaikavälin, laskuttavan yksikön, maksajan tyypin ja laskun tilan perusteella sekä myös vapaalla tekstihaulla. 
+- Laskujen hakunäkymässä on mahdollisuus muodostaa maksumuistutuksia ja ajanvarauskieltoja automaattisesti valittujen maksamattomien laskujen perusteella.
 - Laskujen hakunäkymästä pääsee porautumaan yhden laskun tietoihin ja lisäämään sille suorituksia ja muistutuksia sekä hyvittämään koko laskun tai sen rivejä. Laskulle on mahdollista kirjata sen käsittelyyn liittyviä sisäisiä huomioita, jotka eivät näy laskulla. Myös laskun käsittelyhistoria näytetään: käsittelypäivä, käsittelijä ja tehdyt toimenpiteet. 
 - Pankin viiteaineistojen tuonti.
 - Laskujen suoritusten haku halutulla aikavälillä.
-- Mahdollisuus tarkastella henkilöasiakkaittain sekä niiden laskujen tilannetta, joissa on hänelle kirjattuja tapahtumia, että hänelle kirjattujen tapahtumien laskutustilannetta. Ensin mainitussa näkymässä pääsee suoraan hyvittämään laskuja tai jälkimmäisessä yksittäisiä tapahtumia.
+- Mahdollisuus tarkastella henkilöasiakkaittain sekä a) niiden laskujen tilannetta, joissa on hänelle kirjattuja tapahtumia, että b) hänelle kirjattujen tapahtumien laskutustilannetta. Ensin mainitussa näkymässä pääsee suoraan hyvittämään laskuja ja jälkimmäisessä yksittäisiä tapahtumia.
 
 #### PALVELUN HYÖDYT
 
@@ -30,4 +30,5 @@ Acuten uusi reskontra -palvelu tarjoaa kattavan reskontratoiminnallisuuden, joka
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

@@ -11,7 +11,7 @@ categories: tiedonsiirrot
 
 Potilastietojen exportilla potilastiedot saadaan järjestelmästä ulos tiedostoina, jotka voidaan siirtää toiseen järjestelmään tai arkistoon. Palvelua käytetään yleensä tilanteissa, joissa työterveyshuoltoasiakas siirtyy toiselle palveluntarjoajalle. Se soveltuu käytettäväksi myös tilanteissa, joissa Acuten käyttö kokonaan lopetetaan, jolloin potilastietojen säilytys on järjestettävä Acuten ulkopuolella.
 
-Palvelu on erikseen tilattava ja lopputulos sisältää:
+#### Exportin lopputuloksen sisältö
 
 - Asiakkaiden perustiedot
 - Asiakkaiden kertomustiedot (sisältää osion liitedokumentit)
@@ -26,4 +26,5 @@ Palvelu on erikseen tilattava ja lopputulos sisältää:
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

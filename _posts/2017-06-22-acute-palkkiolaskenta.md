@@ -9,10 +9,9 @@ logo: vitec/vitec_logo.png
 categories: talous
 ---
 
-<i class="fa fa-euro fa-5x fa-pull-left" aria-hidden="true"></i>
-Acuten palkkiolaskenta mahdollistaa ammatinharjoittajien palkkioiden automaattisen laskennan, tilityksen, palkkioperusteiden joustavan määrittelyn sekä monipuolisen raportoinnin.
+Acuten palkkiolaskenta mahdollistaa ammatinharjoittajien palkkioiden automaattisen laskennan, tilityksen, raportoinnin ja palkkioperusteiden joustavan määrittelyn.
 
-#### ominaisuudet ja toiminnot
+#### Ominaisuudet ja toiminnot
 
 
 - Palkkioperusteet voivat olla erilaiset eri yksiköissä ja eri palkkionsaajilla. Palkkiot voivat perustua tapahtumakohtaisesti joko kiinteään laitososuuteen, kiinteään palkkioon tai palkkioprosenttiin. Vuokra voidaan määritellä joko kiinteänä tai vähimmäis-kuukausivuokrana.
@@ -22,18 +21,19 @@ Acuten palkkiolaskenta mahdollistaa ammatinharjoittajien palkkioiden automaattis
 - Palkkionsaajat saavat käyttöönsä yksityiskohtaiset palkkioraportit.
 - Palveluntarjoaja voi tulostaa kirjanpidon vaatiman palkkioraportin.
 - Palkkioiden tilitys voi perustua maksettuihin asiakaslaskuihin, jos Acuten uusi myyntireskontra on käytössä.
-- Palkkioiden siirto palkanlaskenta- ja kirjanpitojärjestelmään sekä pankkiyhteysohjelmaan voi vaatia uusia asiakaskohtaisia tiedonsiirtoja.
+- HUOM: Palkkioiden siirto palkanlaskenta- ja kirjanpitojärjestelmään sekä pankkiyhteysohjelmaan voi vaatia myös uusia tiedonsiirtoratkaisuja.
 
 #### PALVELUN HYÖDYT
 
-- Tarjoaa uusia mahdollisuuksia tukemalla kaikkia yleisesti käytössä olevia palkkioiden määräytymistapoja ja palkkioiden tilitystä maksettujen myyntilaskujen perusteella.  
+- Tukee kaikkia yleisesti käytössä olevia palkkioiden määräytymistapoja ja myös palkkioiden tilitystä maksettujen myyntilaskujen perusteella.  
 - Helpottaa ja vähentää käyttäjien työtä automatisoimalla palkkiolaskennan vaiheita.
 - Vähentää virheitä palkkioiden maksatuksessa uusilla palkkioiden tarkastus- ja korjaustoiminnoilla.
 - Helpottaa ja vähentää käyttäjien työtä uusilla palkkioiden tarkastus- ja korjaustoiminnoilla.
-- Helpottaa ja vähentää käyttäjien työtä mahdollistamalla palkkioiden tilityksen tiedonsiirroilla.
+- Helpottaa ja vähentää käyttäjien työtä mahdollistamalla palkkioiden tilityksen sähköisesti tiedonsiirroilla.
 - Parantaa palkkionsaajien saamaa palvelua tarjoamalla heidän käyttöönsä yksityiskohtaiset palkkioraportit.
 
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

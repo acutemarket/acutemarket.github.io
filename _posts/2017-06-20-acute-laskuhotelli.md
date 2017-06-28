@@ -1,5 +1,5 @@
 ---
-title: Acute laskuhotelli
+title: Acute verkkolasku
 intro: Sähköistä koko laskutusprosessisi, säästä työtä ja paranna samalla asiakaspalveluasi.
 layout: post
 date: 2017-06-20
@@ -9,7 +9,6 @@ logo: vitec/vitec_logo.png
 categories: talous
 ---
 
-<i class="fa fa-envelope-o fa-5x fa-pull-left" aria-hidden="true"></i>
 Acuten Laskuhotelli –verkkolaskupalvelu mahdollistaa verkkolaskujen automatisoidun lähetyksen Acute-järjestelmästä 
 laskujen vastaanottajille. Palvelu tuotetaan yhteistyössä Itellan kanssa. 
 
@@ -23,19 +22,20 @@ osoitteesta [http://verkkolasku.tieke.fi](http://verkkolasku.tieke.fi).
 
 ## Palvelun hyödyt
 
-1. Laskutusprosessi tehostuu merkittävästi. Voit sähköistää koko prosessin yhden palvelun avulla.
-2. Laskulle voi lisätä myös liitteen. Jopa työterveyshuollon liitteet pystytään toimittamaan palvelun avulla oikealle vastaanottajalle.
-3. Ei aikaa vievää laskujen kuorittamista ja postittamista
-4. Laskut nopeammin asiakkaalle
-5. Verkkolaskutukseen siirtyminen parantaa myös asiakaspalveluasi. Verkkolaskun vastaanottaminen on asiakkaallesi paperista laskua huomattavasti edullisempaa ja tehokkaampaa. 
+- Laskutusprosessi tehostuu merkittävästi. Voit sähköistää koko prosessin yhden palvelun avulla.
+- Laskulle voi lisätä myös liitteen. Myös työterveyshuollon liitteet pystytään toimittamaan palvelun avulla oikealle vastaanottajalle.
+- Ei aikaa vievää laskujen kuorittamista ja postittamista.
+- Laskut toimitetaan nopeammin asiakkaalle.
+- Verkkolaskutukseen siirtyminen parantaa myös asiakaspalveluasi. Verkkolaskun vastaanottaminen on asiakkaallesi paperista laskua huomattavasti edullisempaa ja tehokkaampaa. 
 
 Verkkolaskujen ansiosta asiakkaasi saavat seuraavia hyötyjä:
 
-- Laskujen rekisteröinti tapahtuu suoraan ostolaskujen käsittelyjärjestelmään
-- Turhat työvaiheet, kuten skannaus ja tallentaminen poistuvat
-- Laskujen käsittelyn tehostuminen jopa puolittaa käsittelykustannukset
+- Laskujen rekisteröinti tapahtuu suoraan ostolaskujen käsittelyjärjestelmään.
+- Turhat työvaiheet, kuten skannaus ja tallentaminen poistuvat.
+- Laskujen käsittelyn tehostuminen jopa puolittaa käsittelykustannukset.
 
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

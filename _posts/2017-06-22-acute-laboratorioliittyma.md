@@ -9,25 +9,25 @@ logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
 ---
 
-Acuten Laboratorioliittymä sähköistää laboratoriomääräysten lähettämisen ja tulosten saapumisen Acute-järjestelmän ja
-keskuslaboratorion välillä. Palvelu toteutetaan sanomapohjaisella HL7 standardin mukaisella tietoliikenneyhteydellä. 
-Palvelun laajuus on sovitettavissa tapauskohtaisesti, mutta yleensä liittymällä järjestelmien välillä siirtyvät:
+Acuten  siirtää sähköisesti laboratoriomääräykset ja tutkimustulokset Acute-järjestelmän ja
+keskuslaboratorion välillä. Liittymä on HL7 standardin mukainen sanomapohjainen yhteys järjestelmien välillä. 
+Laboratorioliittymän toiminnallisuus on sovitettavissa tapauskohtaisesti, mutta yleensä järjestelmien välillä siirtyvät:
 
 - Potilaan perustiedot
 - Tutkimusmääräykset
 - Näytteenottotiedot
 - Laboratoriotestitulokset &amp; lausunnot
 
-### PALVELUN HYÖDYT
+#### PALVELUN HYÖDYT
 
-1. Laboratoriomääräysten ja –tulosten kirjaaminen tehostuu merkittävästi.
+- Laboratoriomääräysten ja –tulosten kirjaaminen tehostuu merkittävästi.
 Määräys siirtyy automaattisesti laboratorioon ja tulos siirtyy automaattisesti Acute-
 järjestelmään.
-2. Virheiden todennäköisyys pienenee, koska manuaaliset tietojensyöttövaiheet poistuvat.
-3. Prosessi määräyksestä tulosten kirjaamiseen nopeutuu.
-
+-  Virheiden todennäköisyys pienenee, koska manuaaliset tietojen syöttövaiheet poistuvat.
+-  Prosessi määräyksestä tulosten kirjaamiseen nopeutuu.
 
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

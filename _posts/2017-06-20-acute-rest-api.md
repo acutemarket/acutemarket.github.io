@@ -1,6 +1,6 @@
 ---
 title: Acute REST-API
-intro: Kytke muita järjestelmiä reaaliaikaisesti Acuten tietoihin.
+intro: Kytke muita järjestelmiä Acuteen avoimen ohjelmointirajapinnan kautta.
 layout: post
 date: 2017-06-20
 thumbnail: data_cloud.png
@@ -19,4 +19,5 @@ Rajapinnan käytöstä veloitetaan hintaportaittain käyttömäärän mukaan.
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).

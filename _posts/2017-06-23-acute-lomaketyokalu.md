@@ -8,26 +8,26 @@ img:
 logo: vitec/vitec_logo.png
 categories: muut
 ---
-Acuten lomakkeet on interaktiivinen pdf-lomake-sovellus, joka mahdollistaa
+Acute Lomakkeet on interaktiivinen pdf-lomake-sovellus, joka mahdollistaa
 
--  aiemmin tehtyjen valmiiden lomakkeiden käyttämisen Acute järjestelmässä ja 
+-  aiemmin tehtyjen valmiiden lomakkeiden lisäämisen Acute järjestelmään ja 
 -  uusien sisäisten/epävirallisten aktiivisten pdf-lomakkeiden lisäämisen Acuteen. 
 
 Valmiita lomakkeita on heti käyttöönotettavissa useita, katso erillinen lista alta.
-Uusia omia lomakepohjia voi lisätä joko itse Adobe Acrobat X Pro -ohjelmalla tehden, tai erikseen sovittaessa myös Vitecin
+Uusia omia lomakepohjia voi tehdä joko itse Adobe Acrobat X Pro -ohjelmalla, tai erikseen sovittaessa myös Vitecin
 sovellusasiantuntijat voivat auttaa lomakkeen toteutuksessa edeltä käsin suunnitellun mallin pohjalta. Annamme myös koulutusta lomakkeiden tekoon.
 
-Täytetyt ja tulostetut lomakkeet tallentuvat Acutessa kertomustietoihin rakenteisesti. Lomake voi olla Acutessa myös hinnallinen tapahtuma,joka voidaan laskuttaa loppuasiakkaalta. 
+Täytetyt ja tulostetut lomakkeet tallentuvat Acutessa kertomustietoihin rakenteisesti. Lomake voi olla Acutessa myös hinnallinen tapahtuma, joka voidaan laskuttaa loppuasiakkaalta. 
 
 #### PALVELUN HYÖDYT
 
 - Mahdollistaa monimuotoisten lomakkeiden käyttämisen ja tallentamisen järjestelmään.
 - Mahdollistaa uusien lomakkeiden tekemisen helposti ja kustannustehokkaasti.
-- Lomakkeille voidaan myös tuoda valmiiksi järjestelmään tallennettuja tietoja, kuten asiakkaan nimi, hetu ja osoite.
+- Lomakkeille voidaan tuoda valmiiksi täytettynä järjestelmään tallennettuja tietoja, esimerkiksi asiakkaan nimi, hetu ja osoite.
 - Täytetyt ja tulostetut lomakkeet tallentuvat rakenteisena osaksi potilaskertomusta.
-- Organisaatiossa päästään eroon paperisista lomakkeista.
+- Voidaan luopua paperisista lomakkeista ja niiden skannauksesta.
 
-#### Valmiit, suoraan tilattavissa olevat lomakkeet
+#### Valmiit, heti tilattavissa olevat lomakkeet
 
 - Ilmoitus todetusta ammattitaudista (suomeksi)
 - Ilmoitus todetusta ammattitaudista (ruotsiksi)
@@ -44,12 +44,13 @@ Täytetyt ja tulostetut lomakkeet tallentuvat Acutessa kertomustietoihin rakente
 - SV67 Todistus matkakorvausta varten (ruotsiksi)
 - SV6 Lääkärin todistus A (suomeksi)
 - SV6 Lääkärin todistus A (ruotsiksi)
-- SV75 LÄÄKÄRINTODISTUS/TERVEYSKESKUKSEN TODISTUS (suomeksi)
-- SV75 LÄÄKÄRINTODISTUS/TERVEYSKESKUKSEN TODISTUS (ruotsiksi)
-- SV97 LÄÄKÄRINLAUSUNTO ERITYISÄITIYSVAPAAN TARPEESTA (suomeksi)
-- SV97 LÄÄKÄRINLAUSUNTO ERITYISÄITIYSVAPAAN TARPEESTA (ruotsiksi)
+- SV75 Lääkärintodistus/Terveyskeskuksen todistus (suomeksi)
+- SV75 Lääkärintodistus/Terveyskeskuksen todistus (ruotsiksi)
+- SV97 Lääkärinlausunto erityisäitiysvapaan tarpeesta (suomeksi)
+- SV97 Lääkärinlausunto erityisäitiysvapaan tarpeesta (ruotsiksi)
 
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai puhelimella 03 3395 0910.
+[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+puhelimella [03 3395 0910](tel://+358333950910).
