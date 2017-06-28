@@ -249,7 +249,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.data.template.color.primary }};
+    color: #BEDCE6;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -261,7 +261,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .post-template .navbar-default, .post-template .navbar-default.navbar-shrink {
@@ -342,16 +342,28 @@ article img {
     margin-bottom: 20px;
 }
 
-article .thumb {
-    width: 25%;
+article img.thumb {
     opacity: 0.6;
+    width: 100%;
+}
+
+article .ingress {
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+article .heading {
+    display:table;
+}
+
+article .heading-div {
+    display: table-cell;
 }
 
 .post-template article {
     margin-bottom: 50px;
 }
 
-.post-template article h1,
 .post-template article h2,
 .post-template article h3,
 .post-template article h4 {
@@ -847,8 +859,8 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
-footer .list-inline {
-    font-size: 25px;
+footer .list-inline a {
+    font-size: 2em;
 }
 
 footer .list-inline a {
