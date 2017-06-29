@@ -3,11 +3,37 @@
 
   {% include head.html %}
 
-    <body id="page-top" class="index">
+    <body id="partners-body" class="index">
 
     {% include header.html %}
 
-    {{ content }}
+        <div class="container-fluid">
+            <div class="content">
+                
+                <div class="container">
+                    <article class="post col-md-8 col-md-offset-2 hentry">
+                        <h1>
+                            {{ page.title }}
+                        </h1>
+                        <div class="ingress">
+                            {{ page.intro }}
+                        </div>
+                        <h2 id="contact">
+                            Yhteystiedot
+                        </h2>
+                        <p>
+                            Sähköposti:
+                            <a href="mailto://{{ page.contact-email }}">{{ page.contact-email }}</a>
+                        </p>
+                        <p>
+                            Puhelin:
+                            <a href="tel://{{ page.contact-tel | remove: ' ' }}">{{ page.contact-tel }}</a>
+                        </p>
+                        {{ content }}
+                    </article>
+                </div>
+            </div>
+        </div>
 
     {% include footer.html %}
     {% include js.html %}
