@@ -9,23 +9,23 @@ logo: vitec/vitec_logo.png
 categories: tiedonsiirrot muut
 ---
 
-Acuten Työnantaja-extranet mahdollistaa yritysasiakkaiden yhteydenpidon terveyspalvelun tuottajaan. 
-Palvelun avulla asiakasyritys voi ylläpitää työntekijätietojaan ja lähettää sairauspoissaolotietoja 
+Acuten Työnantaja-extranet mahdollistaa yritysasiakkaiden yhteydenpidon työterveyspalvelun tuottajaan. 
+Palvelun avulla asiakasyritys voi ylläpitää työntekijätietoja ja lähettää sairauspoissaolotietoja 
 suoraan työterveyshuollon potilastietojärjestelmään.
 
 Extranet on parametroitavissa ja sovitettavissa tarpeiden mukaan.
 
 #### PALVELUN HYÖDYT
 
-- Säästää henkilöstökustannuksissa - Työterveyspalvelujen tuottajan henkilökunnan ei tarvitse ylläpitää ja lisätä 
-sairauspoissaolo- tai työntekijätietoja potilastietojärjestelmään, sillä nämä työt voidaan siirtää suoraan asiakasorganisaation itsensä tehtäväksi.
-- Nopeuttaa tietojen saantia - Kun asiakasyritys lisää itse poissaolotietoja potilastietojärjestelmään, tietojen 
-saanti raportointia ja toimintaa varten nopeutuu.
-- Tietojen oikeellisuus paranee - Kun työterveyden asiakasyritys käyttää Extranet-palvelua ja ylläpitää omatoimisesti
-oman organisaationsa tietoja, niin tietojen oikeellisuus (työsuhteet ja ulkopuoliset sairauspoissaolot) paranee.
-- Turhat yhteydenotot vähentyvät - Kun asiakasyritys hoitaa tietojen lisäämisen itsenäisesti, turhat yhteydenotot vähenevät. 
-Tällöin vapautuu aikaa tuottavampiin tehtäviin.  
-- Palvelun käyttöliittymä skaalautuu myös mobiililaitteisiin - Palvelun käyttöliittymä on toteutettu siten, että se skaalautuu myös 
+- Säästää henkilöstökustannuksissa. Työterveyspalvelujen tuottajan henkilökunnan ei tarvitse ylläpitää ja lisätä 
+sairauspoissaolo- tai työntekijätietoja potilastietojärjestelmään, sillä nämä työt voidaan siirtää asiakasorganisaation itsensä tehtäväksi.
+- Tietojen ajantasaisuus paranee. Kun asiakasyritys lisää itse poissaolotietoja potilastietojärjestelmään, tietojen 
+saanti toimintaa ja raportointia varten nopeutuu.
+- Tietojen oikeellisuus paranee. Kun työterveyden asiakasyritys käyttää Extranet-palvelua ja ylläpitää omatoimisesti
+oman organisaationsa tietoja, niin prosessi yksinkertaistuu ja virheet vähenevät.
+- Aikaa vapautuu rutiinityöstä. Kun asiakasyritys hoitaa tietojen lisäämisen itsenäisesti, turhat yhteydenotot vähenevät ja 
+aikaa vapautuu tuottavampiin tehtäviin.  
+- Palvelun käyttöliittymä skaalautuu myös mobiililaitteisiin. Palvelun käyttöliittymä on responsiivinen, se skaalautuu myös 
 mobiililaitteisiin, joten asiakasyrityksen yhteyshenkilön ei välttämättä tarvitse olla työpisteellä voidakseen käyttää palvelua.
 
 ### Ota yhteyttä
