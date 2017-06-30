@@ -9,8 +9,8 @@ logo: vitec/vitec_logo.png
 categories: kanta
 ---
 
-Acuten eArkisto -palvelu mahdollistaa potilaskertomustietojen viennin ja haun Kelan sähköisestä potilastiedon 
-arkistosta. Palvelu toimii kiinteänä osana Acute-järjestelmää. Palvelu on mahdollista kytkeä käyttöön joko 
+Acuten eArkisto -palvelu mahdollistaa potilaskertomustietojen viennin Kelan sähköiseen potilastiedon 
+arkistoon ja haun sieltä. Palvelu toimii kiinteänä osana Acute-järjestelmää. Palvelu on mahdollista kytkeä käyttöön joko 
 Vitecin Terveysviestikeskuksen kautta tai tukeutuen jo olemassaolevaan omaan infrastruktuurin, 
 omaan välityspisteeseen ja allekirjoituspalveluun. 
 
@@ -20,7 +20,8 @@ Palvelun avulla:
 - haetaan potilasasiakirjoja Kelan eArkistosta sekä
 - tehdään informointeja, suostumuksia ja kieltoja.
 
-Lisäksi palvelu sisältää:
+Lisäksi palvelu sisältää:  
+
 - kansalliset koodistot ja niiden päivitykset,
 - uuden kertomus- ja kirjausosion sekä
 - materiaalia ja tukea palvelun käyttöönottamiseksi ja kansallisten vaatimusten täyttämiseksi.

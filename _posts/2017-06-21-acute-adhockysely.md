@@ -9,19 +9,19 @@ layout: post
 categories: raportointi
 ---
 
-Acuten AdHoc-tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja jatkojalostamista. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa listamuotoisia kyselyitä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  
+Acuten AdHoc-tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja jatkojalostamista. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa listamuotoisia kyselyjä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  
 
-Työkalu toimii siten, että Acuteen lisätään toiminnallisuus, jolla voi toteuttaa räätälöityjä tietokantakyselyitä. Räätälöidyt tietokantakyselyt voidaan toteuttaa joko Vitecin asiantuntijan tai Acusfäärin IT-spesialistin toimesta. Toteutuksen jälkeen kysely on aina käytettävissä ilman erillistä "tilausta" tai pyyntöä. 
+Työkalu toimii siten, että Acuteen lisätään toiminnallisuus, jolla voi toteuttaa ja käyttää räätälöityjä tietokantakyselyjä. Räätälöidyt tietokantakyselyt voidaan tehdä joko Vitecin asiantuntijan tai Acusfäärin IT-spesialistin toimesta. Toteutuksen jälkeen kysely on aina käytettävissä ilman erillistä "tilausta" tai pyyntöä. 
 
 #### PALVELUN HYÖDYT
 
 - Acuteen tallennettu tieto on käytettävissä ja jalostettavissa muissa ohjelmissa.
-- Kysely on joustava tapa tuottaa tietoa päätösten tueksi.
+- Kysely on joustava tapa tuottaa tietoa päätöksenteon tueksi.
 - Ratkaisu yksilöllisiin tiedonkeruutarpeisiin.
 - Poimittavan datan sisältö ja hakusäännöt ovat räätälöidysti määriteltävissä.
 - Toiminnallisuudella on helppo täydentää raportointia.
 - Mahdollistaa minkä tahansa Acutessa olevan tiedon siirron ulkopuoliseen työkaluun.
-- Kyselyn tulosjoukko on Excel-yhteensopiva, joten sen hyödyntäminen muissa tietojärjestelmissä on helppoa.
+- Kyselyn tulos on Excel-yhteensopiva, joten sen hyödyntäminen muissa tietojärjestelmissä on helppoa.
 
 ### Ota yhteyttä
 

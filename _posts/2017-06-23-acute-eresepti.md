@@ -28,7 +28,7 @@ tarkastella reseptikeskuksen tietoja ja tehdä, vastaanottaa ja toimittaa uusimi
 - Nopea ja helppokäyttöinen reseptityökalu.
 - Toimitustietojen tarkastelu kansallisesta reseptikeskuksesta.
 - Kätevä uusimispyyntöjen käsittely.
-- Järjestelmässä määrättyjen lääkkeiden lääkeinteraktiohälytykset saadaan näkyviin suoraan reseptityökaluun.
+- Järjestelmässä määrättyjen lääkkeiden lääkeinteraktiohälytykset saadaan näkyviin suoraan reseptityökaluun (optio).
 
 ### Ota yhteyttä
 

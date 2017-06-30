@@ -9,14 +9,16 @@ logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
 ---
 
-Acuten kuvantamisliittymä helpottaa kuvantamismääräysten lähettämistä ja tulosten tarkastelua Acuten ja kuvantamisen järjestelmien välillä. Palvelu toteutetaan yleensä sanomapohjaisena liityntänä ja single-sign-on työpöytäintegraationa (-integraatioina). 
+Kuvantamisliittymällä kuvantamismääräykset siirtyvät sähköisesti Acutesta kuvantamisen järjestelmiin ja tuloksia voidaan tarkastella suoraan
+Acutesta. Käyttäjä pääsee liikkumaan joustavasti Acuten ja kuvantamisen järjestelmien välillä kertakirjautumisella.
 
 Kuvantamisliittymän toiminnallisuus on sovitettavissa tapauskohtaisesti, mutta yleensä liittymän avulla voidaan:
 
-- Siirtää potilaan perustiedot kuvantamisjärjestelmiin.
+- Siirtää asiakkaan perustiedot kuvantamisjärjestelmiin.
 - Siirtää tutkimusmääräys kuvantamisjärjestelmiin.
 - Ottaa vastaan lausunto kuvantamisjärjestelmistä.
 - Tarkastella tutkimuksen tuloksia ja kuvia Acuteen siirtyvän linkin kautta.
+- Ottaa käyttöön single-sign-on työpöytäintegraatiot Acutesta kuvantamisen järjestelmiin.
 
 #### PALVELUN HYÖDYT
 

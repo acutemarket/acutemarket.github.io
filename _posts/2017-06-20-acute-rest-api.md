@@ -10,7 +10,7 @@ categories: tiedonsiirrot muut
 
 Acuten REST API mahdollistaa ulkoisten sovellusten joustavan ja avoimen liittämisen Acute-järjestelmään. 
 
-REST-API liikenne on samalla tavalla suojattua liikennettä kuin vaikkapa verkkopankkiliikenne ja sen käyttö lokitetaan EU:n tietoturva-asetuksen mukaisesti.
+REST-API liikenne on samalla tavalla suojattua liikennettä kuin verkkopankkiliikenne ja sen käyttö lokitetaan EU:n tietoturva-asetuksen mukaisesti.
 
 ![Acusfääri](/portfolio/vitec/acute-rest-code.png)
 
