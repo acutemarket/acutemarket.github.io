@@ -16,9 +16,9 @@ Palvelu mahdollistaa myös historiatiedon oikaisun takautuvasti: ajanvarauksia o
 Ajankäytön seuranta
 
 - Mahdollistaa resurssien käyttöasteseurannan halutulla aikavälillä.
-- Nopeuttaa vastaanottoaikojen kappalemäärien ja pituuksien seurantaa. 
+- Nopeuttaa vastaanottoaikojen kappalemäärien ja kestojen seurantaa. 
 - Mahdollistaa ajanvarausten muokkaamisen ja teon takautuvasti.
-- Helpottaa henkilöstön omaa työajankäytön seuraamista.
+- Helpottaa henkilöstön omaa työajan käytön seuraamista.
 
 ### Ota yhteyttä
 

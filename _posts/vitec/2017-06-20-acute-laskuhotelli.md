@@ -9,23 +9,23 @@ logo: vitec/vitec_logo.png
 categories: talous
 ---
 
-Acuten Laskuhotelli –verkkolaskupalvelu mahdollistaa verkkolaskujen automatisoidun lähetyksen Acute-järjestelmästä 
+Laskuhotelli –verkkolaskupalvelu mahdollistaa verkkolaskujen automatisoidun lähetyksen Acute-järjestelmästä 
 laskujen vastaanottajille. Palvelu tuotetaan yhteistyössä Itellan kanssa. 
 
 Laskuhotellipalvelun kautta voidaan lähettää:
 
-- Verkkolaskut niiden operaattoreiden asiakkaalle, joiden kanssa Itellalla on yhdysliikennesopimus. Yhdysliikennesopimukset voi tarkistaa 
+- Verkkolaskut niiden operaattoreiden asiakkaille, joiden kanssa Itellalla on yhdysliikennesopimus. Yhdysliikennesopimukset voi tarkistaa 
 osoitteesta [http://verkkolasku.tieke.fi](http://verkkolasku.tieke.fi).
-- Liitteelliset laskut asiakkaalle. Liitteet on mahdollista ohjata eri vastaanottajalle kuin itse lasku ja liitteet.  
+- Liitteelliset laskut asiakkaalle. Liitteet on mahdollista ohjata eri vastaanottajalle kuin itse lasku.
 - Paperilaskut niille asiakkaille, jotka eivät vastaanota verkkolaskuja.
-- Palvelu toimii myös laskujen tulostuspalveluna, jossa tulostus, kuoritus ja postitus hoituu Itellan kautta.
+- Palvelu toimii myös laskujen tulostuspalveluna, jossa tulostus, kuoritus ja postitus hoituu Itellan toimesta.
 
 ## Palvelun hyödyt
 
 - Laskutusprosessi tehostuu merkittävästi. Voit sähköistää koko prosessin yhden palvelun avulla.
-- Laskulle voi lisätä myös liitteen. Myös työterveyshuollon liitteet pystytään toimittamaan palvelun avulla oikealle vastaanottajalle.
+- Laskun liitteet siirtyvät laskun mukana verkkolaskupalveluun. Lasku ja sen liitteet voidaan ohjata eri vastaanottajille.
 - Ei aikaa vievää laskujen kuorittamista ja postittamista.
-- Laskut toimitetaan nopeammin asiakkaalle.
+- Asiakas saa laskut nopeammin.
 - Verkkolaskutukseen siirtyminen parantaa myös asiakaspalveluasi. Verkkolaskun vastaanottaminen on asiakkaallesi paperista laskua huomattavasti edullisempaa ja tehokkaampaa. 
 
 Verkkolaskujen ansiosta asiakkaasi saavat seuraavia hyötyjä:

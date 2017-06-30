@@ -9,7 +9,7 @@ logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
 ---
 
-Potilastietojen exportilla potilastiedot saadaan järjestelmästä ulos tiedostoina, jotka voidaan siirtää toiseen järjestelmään tai arkistoon. Palvelua käytetään yleensä tilanteissa, joissa työterveyshuoltoasiakas siirtyy toiselle palveluntarjoajalle. Se soveltuu käytettäväksi myös tilanteissa, joissa Acuten käyttö kokonaan lopetetaan, jolloin potilastietojen säilytys on järjestettävä Acuten ulkopuolella.
+Potilastietojen exportilla potilastiedot saadaan järjestelmästä ulos tiedostoina, jotka voidaan siirtää toiseen järjestelmään tai arkistoon. Palvelua käytetään yleensä tilanteissa, joissa työterveyshuollon asiakas siirtyy toiselle palveluntarjoajalle. Se soveltuu käytettäväksi myös tilanteissa, joissa Acuten käyttö kokonaan lopetetaan, jolloin potilastietojen säilytys on järjestettävä Acuten ulkopuolella.
 
 #### Exportin lopputuloksen sisältö
 

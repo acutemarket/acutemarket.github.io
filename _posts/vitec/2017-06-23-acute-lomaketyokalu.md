@@ -10,14 +10,14 @@ categories: muut
 ---
 Acute Lomakkeet on interaktiivinen pdf-lomake-sovellus, joka mahdollistaa
 
--  aiemmin tehtyjen valmiiden lomakkeiden lisäämisen Acute järjestelmään ja 
--  uusien sisäisten/epävirallisten aktiivisten pdf-lomakkeiden lisäämisen Acuteen. 
+-  valmiiden lomakepohjien käyttöönoton Acutessa ja 
+-  uusien sisäisten/epävirallisten pdf-lomakkeiden lisäämisen Acuteen. 
 
 Valmiita lomakkeita on heti käyttöönotettavissa useita, katso erillinen lista alta.
-Uusia omia lomakepohjia voi tehdä joko itse Adobe Acrobat X Pro -ohjelmalla, tai erikseen sovittaessa myös Vitecin
-sovellusasiantuntijat voivat auttaa lomakkeen toteutuksessa edeltä käsin suunnitellun mallin pohjalta. Annamme myös koulutusta lomakkeiden tekoon.
+Uusia omia lomakepohjia voi tehdä joko itse Adobe Acrobat X Pro -ohjelmalla tai Vitecin
+sovellusasiantuntijat voivat auttaa uusien lomakkeiden toteutuksessa. Annamme myös koulutusta lomakkeiden tekoon.
 
-Täytetyt ja tulostetut lomakkeet tallentuvat Acutessa kertomustietoihin rakenteisesti. Lomake voi olla Acutessa myös hinnallinen tapahtuma, joka voidaan laskuttaa loppuasiakkaalta. 
+Täytetyt ja tulostetut lomakkeet tallentuvat Acuten kertomustietoihin rakenteisesti. Lomake voi olla Acutessa myös hinnallinen tapahtuma, joka voidaan laskuttaa loppuasiakkaalta. 
 
 #### PALVELUN HYÖDYT
 

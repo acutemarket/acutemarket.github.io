@@ -10,19 +10,19 @@ categories: tiedonsiirrot muut
 ---
 
 Acuten Työnantaja-extranet mahdollistaa yritysasiakkaiden yhteydenpidon terveyspalvelun tuottajaan. 
-Palvelun avulla asiakasyritys voi nettikäyttöliittymällä ylläpitää yrityksen työntekijätietoja ja lähettää sairauspoissaolotietoja 
-suoraan työterveyshuollon potilastietojärjestelmään. 
+Palvelun avulla asiakasyritys voi ylläpitää työntekijätietojaan ja lähettää sairauspoissaolotietoja 
+suoraan työterveyshuollon potilastietojärjestelmään.
 
 Extranet on parametroitavissa ja sovitettavissa tarpeiden mukaan.
 
 #### PALVELUN HYÖDYT
 
 - Säästää henkilöstökustannuksissa - Työterveyspalvelujen tuottajan henkilökunnan ei tarvitse ylläpitää ja lisätä 
-sairauspoissaolo- tai työntekijätietoja potilastietojärjestelmään vaan hän voi siirtää nämä asiakasorganisaation tehtäväksi.
+sairauspoissaolo- tai työntekijätietoja potilastietojärjestelmään, sillä nämä työt voidaan siirtää suoraan asiakasorganisaation itsensä tehtäväksi.
 - Nopeuttaa tietojen saantia - Kun asiakasyritys lisää itse poissaolotietoja potilastietojärjestelmään, tietojen 
 saanti raportointia ja toimintaa varten nopeutuu.
 - Tietojen oikeellisuus paranee - Kun työterveyden asiakasyritys käyttää Extranet-palvelua ja ylläpitää omatoimisesti
-oman organisaationsa tietoja, niinn tietojen oikeellisuus (työsuhteet ja ulkopuoliset sairauspoissaolot) paranee.
+oman organisaationsa tietoja, niin tietojen oikeellisuus (työsuhteet ja ulkopuoliset sairauspoissaolot) paranee.
 - Turhat yhteydenotot vähentyvät - Kun asiakasyritys hoitaa tietojen lisäämisen itsenäisesti, turhat yhteydenotot vähenevät. 
 Tällöin vapautuu aikaa tuottavampiin tehtäviin.  
 - Palvelun käyttöliittymä skaalautuu myös mobiililaitteisiin - Palvelun käyttöliittymä on toteutettu siten, että se skaalautuu myös 

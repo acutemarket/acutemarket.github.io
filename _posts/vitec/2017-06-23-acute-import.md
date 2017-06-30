@@ -1,6 +1,6 @@
 ---
 title: Potilastietojen import
-intro: Siirrä potilas- ja yritysasiakastietojat ulkopuolisesta järjestelmästä Acute-järjestelmään.
+intro: Siirrä potilas- ja yritysasiakastietoja ulkopuolisesta järjestelmästä Acute-järjestelmään.
 layout: post
 date: 2017-06-23
 thumbnail: folder_into.png
@@ -8,22 +8,22 @@ img:
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
 ---
-Acuten Import mahdollistaa potilastietojen ja yritysasiakkaiden perustietojen tuonnin ulkopuolisesta järjestelmästä  Acute-järjestelmään. Palvelua käytetään yleensä tilanteissa, joissa potilaita siirtyy toiselta palveluntarjoajalta (esim. työterveyshuoltoasiakas siirtyy toiselle) tai asiakas siirtyy vanhasta tietojärjestelmästä Acute-järjestelmään.
+Acuten Import mahdollistaa potilastietojen ja yritysasiakkaiden perustietojen tuonnin ulkopuolisesta järjestelmästä  Acute-järjestelmään. Palvelua käytetään yleensä tilanteissa, joissa työterveyshuollon potilaita siirtyy toiselta palveluntarjoajalta tai vanhasta tietojärjestelmästä siirrytään Acute-järjestelmän käyttöön.
 
 #### Importissa siirtyvät tiedot
 
-- Asiakkaiden perustiedot
+- Asiakkaiden perustiedot.
 - Asiakkaiden työsuhdetiedot. 
 - Asiakkaan kertomustiedot (käytettävissä arkisto/lukutyökalussa).
 - Yritysten perustiedot.
-- Yritysten kertomustiedot  (käytettävissä arkisto/lukutyökalussa)..
+- Yritysten kertomustiedot  (käytettävissä arkisto/lukutyökalussa).
 
 #### PALVELUN HYÖDYT
 
 - Potilastiedot saadaan tuotua järjestelmään yhtenä massana.
 - Vanhat potilastiedot ovat tarkasteltavissa Acuten kertomuksessa.
 - Yritysasiakkaiden perustiedot ovat käytettävissä järjestelmässä.
-- Yritysasiakkaiden kertomustiedot ovat käytettävissä järjestelmässä.
+- Yritysasiakkaiden kertomustiedot ovat käytettävissä.
 - Asiakkaiden mahdolliset työsuhteet on kytketty valmiiksi oikeaan organisaatioon.
 
 ### Ota yhteyttä
