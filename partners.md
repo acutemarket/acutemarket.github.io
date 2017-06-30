@@ -10,9 +10,24 @@ contact-tel: +358 40 751 2007
 
 ## Pikaopas
 
-Tämä pikaopas olettaa, että sinulla on työasemassasi Git ja tunnet sen käytön ennestään. 
+Acute Market -webbisaitin sourcet ovat julkisia, ne löytyvät GitHubista, osoitteesta 
+[https://github.com/acutemarket/acutemarket.github.io](https://github.com/acutemarket/acutemarket.github.io).
+Tuotekuvaukset löytyvät ```_posts``` hakemistosta ja ne kirjoitetaan [markdown-syntaksilla](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Editoi sisältö omien tuotteidesi osalta haluamaksesi GitHub-prosessilla, eli
+
+```
+    1. Kloonaa repo
+    2. Editoi
+    3. Tee pull request
+    4. Et voilà, se on siinä.
+```
+
+## Tarkemmat ohjeet
+
+Näissä ohjeissa oletetaan, että sinulla on työasemassasi Git ja tunnet sen käytön ennestään. 
 Jos Git ei (vielä) kuulu työkaluvalikoimiisi, niin ei huolta, saat tuotettua Acute Markettiin 
-sisältöä muutenkin, mutta prosessi on vähän monimutkaisempi, [ota yhteyttä!](#contact).
+sisältöä muutenkin, mutta prosessi on monimutkaisempi, [ota yhteyttä!](#contact).
 
 ### 1 - Kloonaa AcuteMarket-repository itsellesi
 
