@@ -19,6 +19,8 @@ sovellusasiantuntijat voivat auttaa uusien lomakkeiden toteutuksessa. Annamme my
 
 Täytetyt ja tulostetut lomakkeet tallentuvat Acuten kertomustietoihin rakenteisesti. Lomake voi olla Acutessa myös hinnallinen tapahtuma, joka voidaan laskuttaa loppuasiakkaalta. 
 
+![Lomakemalli](/portfolio/vitec/acute-lomake.png)
+
 #### PALVELUN HYÖDYT
 
 - Mahdollistaa monimuotoisten lomakkeiden käyttämisen ja tallentamisen järjestelmään.

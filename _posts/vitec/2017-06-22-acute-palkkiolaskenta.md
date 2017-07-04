@@ -12,6 +12,9 @@ categories: talous
 Acuten palkkiolaskenta mahdollistaa ammatinharjoittajien palkkioperusteiden joustavan määrittelyn, palkkioiden automaattisen laskennan sekä palkkioiden 
 tarkastuksen, tilityksen ja raportoinnin.
 
+![Palkkiolaskenta screenshot](/portfolio/vitec/acute-palkkiolaskenta.png)
+![Palkkiolaskenta screenshot](/portfolio/vitec/acute-palkkiolaskenta2.png)
+
 #### Ominaisuudet ja toiminnot
 
 

@@ -12,6 +12,9 @@ WWW-ajanvarauksen avulla asiakas voi varata ajan vastaanotolle nettiyhteyden kau
 Ajanvaraus onnistuu myös yleisimmillä mobiililaitteilla. Asiakkaat kirjautuvat www-ajanvaraukseen
 vaivattomasti henkilötunnuksen ja nimen yhdistelmällä.
 
+![WWW-ajanvaraus screenshot](/portfolio/vitec/acute-web-varaus.png)
+![WWW-ajanvaraus screenshot](/portfolio/vitec/acute-web-varaus2.png)
+
 Sopivaa aikaa voi etsiä useilla tavoilla: palvelun, toimipisteen tai vastaanottajan perusteella. 
 Asiakas saa varauksen numeron sähköpostitse vahvistusviestin yhteydessä. Tämän varausnumeron avulla hän voi 
 myöhemmin perua varaamansa ajan tai tarkastella sitä.

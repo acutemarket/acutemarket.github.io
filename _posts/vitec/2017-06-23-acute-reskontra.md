@@ -12,6 +12,7 @@ Acuten uusi reskontra -palvelu tarjoaa kattavan reskontratoiminnallisuuden, joka
 
 
 ![Reskontra screenshot](/portfolio/vitec/acute-reskontra.png)
+![Reskontra screenshot](/portfolio/vitec/acute-reskontra2.png)
 
 #### Ominaisuudet
 
