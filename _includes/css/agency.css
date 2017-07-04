@@ -37,6 +37,11 @@ ul.nav {
     font-size: 11px;
 }
 
+ul.nav.portfolio-nav {
+    font-size: 21px;
+    margin-top: 60px;
+}
+
 .intro-text .btn {
     margin: 3px;
 }
@@ -369,7 +374,8 @@ article {
     margin: 50px 0 50px 0;
 }
 
-article h1 {
+article h1,
+section h1 {
     line-height: 1.7em;
 }
 
@@ -412,7 +418,7 @@ article li {
 }
 
 section {
-    padding: 120px 0;
+    padding: 60px 0;
 }
 
 section h2.section-heading {
@@ -555,6 +561,26 @@ section h3.section-subheading {
     #portfolio .portfolio-item {
         margin: 0 0 40px 0;
     }
+}
+
+a.partner-link {
+    display: block;
+    margin-bottom: 30px;
+    border: solid 1px transparent;
+}
+
+
+a.partner-link:hover {
+    border: solid 1px #ccc;
+}
+
+a.partner-link .row {
+    margin-left: 0;
+}
+
+div.partner-img img {
+    max-height: 60px;
+    padding: 5px;
 }
 
 .timeline {

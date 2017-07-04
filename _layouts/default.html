@@ -6,8 +6,24 @@
     <body id="page-top" class="index">
 
     {% include header.html %}
-    {% include plugins_grid.html %}
-    {% include about.html %}
+    <div class="container">
+        <ul class="nav nav-tabs portfolio-nav">
+            <li class="active">
+                <a href="#portfolio-tab" data-toggle="tab" >Tuotteet</a>
+            </li>
+            <li>
+                <a href="#partnerlist-tab" data-toggle="tab" >Yritykset</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div id="portfolio-tab" class="tab-pane fade in active">
+                {% include plugins_grid.html %}
+            </div>
+            <div id="partnerlist-tab" class="tab-pane fade in">
+                {% include partnerlist.html %}
+            </div>
+        </div>
+    </div>
     {% include footer.html %}
     {% include js.html %}
 

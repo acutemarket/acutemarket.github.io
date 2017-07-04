@@ -1,8 +1,8 @@
 ---
 layout: partners
 title: Acusfäärin kumppaneille
-intro: Acute Market on Acute-ekosysteemin ilmainen näyteikkuna, jossa koko Acusfäärin
-  palvelukirjo on keskitetetysti esillä.  Haluatko saada omia tuotteitasi tai palvelujasi näkyville Acute Markettiin? Hienoa!
+intro: Acute Market on Acute-ekosysteemin näyteikkuna, jossa koko Acusfäärin
+  palvelukirjo on keskitetetysti esillä. Haluatko saada omia tuotteitasi tai palvelujasi näkyville Acute Markettiin? Hienoa!
   Tälle sivulle on kasattu tietopaketti, jolla pääset hyvin alkuun.
 contact-email: pekka.heimonen@vitecsoftware.com
 contact-tel: +358 40 751 2007
@@ -19,7 +19,7 @@ Editoi sisältö omien tuotteidesi osalta haluamaksesi GitHub-prosessilla, eli
 ```
     1. Kloonaa repo
     2. Editoi
-    3. Tee pull request
+    3. Avaa pull request
     4. Et voilà, se on siinä.
 ```
 

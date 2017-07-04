@@ -1,0 +1,28 @@
+<!-- Partnerlist Grid Section -->
+    <section id="partnerlist" class="bg-light-gray">
+        <div class="container">
+            {% assign partnerdata = site.data.partnerlist | sort: 'partner' %}
+            {% for company in partnerdata %}
+            <a href="{{ company.link }}" class="partner-link">
+                <div class="row">
+                    {% if company.logobg %}
+                    <div class="col-lg-4 col-md-4 col-sm-4 partner-img" style="background-color: #{{ company.logobg }};">
+                        <img src="/img/{{ company.img }}" class="img-responsive img-centered" alt="">
+                    </div>
+                    {% else %}
+                    <div class="col-lg-4 col-md-4 col-sm-4 partner-img">
+                        <img src="/img/{{ company.img }}" class="img-responsive img-centered" alt="">
+                    </div>
+                    {% endif %}
+                    <div class="col-lg-4 col-md-4 col-sm-4 partner-caption">
+                        <h4>{{ company.partner }}</h4>
+                        <p class="text-primary">{{ company.slogan }}</p>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 partner-caption">
+                        <p class="text-muted">{{ company.text }}</p>
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
