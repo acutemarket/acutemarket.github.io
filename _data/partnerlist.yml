@@ -1,37 +1,50 @@
 - partner: Acusfääri
   img: vitec_logo.svg
-  slogan: Digitaaliseen terveydenhuollon verkosto
-  text: 
+  slogan: Ekosysteemi täynnä ratkaisuja ja mahdollisuuksia
+  text: Acusfäärissä rakennetaan digitaalisen terveydenhuollon yhteistä tulevaisuutta. Ota homma haltuun, me autamme.
   link: https://acute.fi
 
 - partner: CSAM Health
   img: csam_logo.png
   slogan: Caring for life
-  text: 
+  text: Enabling excellent healthcare through innovative software solutions.
   link: csamhealth.com
 
 - partner: Santa Margarita
   img: stm_logo.jpg
-  slogan: Räätälöityjä ratkaisuja luotettavasti ja tehokkaasti
-  text: 
+  slogan: Visionary software solutions
+  text: Suunnittelemme ja toteutamme vaativia räätälöityjä ratkaisuja teollisuuteen, terveydenhuoltoon ja palvelusektorille. 
+    Käytämme tehokkaita ja nykyaikaisia kehitysvälineitä.
   link: http:/santamargarita.fi
 
 - partner: Pengon
   img: pengon_logo.png
   logobg: 36404a
   slogan: Tiedosta tulosta
-  text: 
+  text: Koulutamme yrityksenne henkilöstön erilaisten raportointiratkaisujen saloihin sekä opastamme, kuinka henkilöstö voi tuottaa omia raportteja itsenäisesti.
   link: http://www.pengon.fi/
 
 
 - partner: Movendos
   img: movendos_logo.png
   slogan: Building a healthy future
-  text: 
+  text: Olemme terveyden ja hyvinvoinnin edistämiseen keskittyvä valmennus- ja teknologiayhtiö. 
+    Tuomme henkilökohtaisen terveys- ja hyvinvointivalmennuksen jokaisen ulottuville.
+    Asiakkaitamme ovat yritykset, yhteisöt ja julkinen sektori – tahot, 
+    joille ihmisten terveys ja hyvinvointi ovat tärkeä osa toimintaa.
   link: http://www.movendos.com/
 
 - partner: Evolvit
   img: evolvit_logo.svg
   slogan: Espoo | Tampere | Lahti | Jyväskylä
-  text: 
+  text: Asiakkaamme valitsevat meidät, kun he tarvitsevat luotettavimman kumppanin strategisesti 
+    tärkeään IT-hankkeeseen tai järjestelmään. 
+    Tarjoamme huippuluokan asiakaskokemuksen ja yrityksesi menestymistä tukevaa liiketoimintaosaamista.
   link: http://www.evolvit.fi/
+
+- partner: Kotopro
+  img: kotopro_logo.jpg
+  slogan: Dokumentoi, puhu, kuvaa ja jaa
+  text: Ratkaisu määrämuotoisen tiedonkeruun tarpeisiin.
+  link: http://www.kotopro.com/
+

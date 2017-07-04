@@ -563,10 +563,19 @@ section h3.section-subheading {
     }
 }
 
+#partnerlist>div.container {
+    padding-left: 0;
+}
+
+.market.container {
+    padding-left: 0;
+}
+
 a.partner-link {
     display: block;
     margin-bottom: 30px;
     border: solid 1px transparent;
+    border-bottom: solid 1px #ccc;
 }
 
 
@@ -580,7 +589,9 @@ a.partner-link .row {
 
 div.partner-img img {
     max-height: 60px;
-    padding: 5px;
+    max-width: 250px;
+    padding: 6px;
+    margin: 6px;
 }
 
 .timeline {

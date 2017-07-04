@@ -6,8 +6,8 @@
             <a href="{{ company.link }}" class="partner-link">
                 <div class="row">
                     {% if company.logobg %}
-                    <div class="col-lg-4 col-md-4 col-sm-4 partner-img" style="background-color: #{{ company.logobg }};">
-                        <img src="/img/{{ company.img }}" class="img-responsive img-centered" alt="">
+                    <div class="col-lg-4 col-md-4 col-sm-4 partner-img">
+                        <img src="/img/{{ company.img }}" class="img-responsive img-centered" alt="" style="background-color: #{{ company.logobg }};">
                     </div>
                     {% else %}
                     <div class="col-lg-4 col-md-4 col-sm-4 partner-img">
