@@ -10,6 +10,9 @@ categories: talous
 ---
 Acuten uusi reskontra -palvelu tarjoaa kattavan reskontratoiminnallisuuden, joka kytkeytyy suoraan järjestelmän muihin toimintoihin, kuten laskutukseen ja uuteen palkkiolaskentaan.
 
+
+![Reskontra screenshot](/portfolio/vitec/acute-reskontra.png)
+
 #### Ominaisuudet
 
 - Monipuolinen laskujen hakunäkymä, jossa laskuja voidaan hakea laskutusaikavälin, laskuttavan yksikön, maksajan tyypin ja laskun tilan perusteella sekä myös vapaalla tekstihaulla. 

@@ -12,6 +12,8 @@ Acuten REST API mahdollistaa ulkoisten sovellusten joustavan ja avoimen liittäm
 
 REST-API liikenne on samalla tavalla suojattua liikennettä kuin verkkopankkiliikenne ja sen käyttö lokitetaan EU:n tietoturva-asetuksen mukaisesti.
 
+Acute REST-API:n teknisen dokumentaation voit downloadata [täältä](/resources/Acute 6.1 REST API 2017-06-30.xlsx).
+
 ![Acusfääri](/portfolio/vitec/acute-rest-code.png)
 
 ### Ota yhteyttä
