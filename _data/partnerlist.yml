@@ -29,12 +29,13 @@
 
 
 - partner: Movendos
-  img: movendos_logo.png
-  slogan: Building a healthy future
-  text: Olemme terveyden ja hyvinvoinnin edistämiseen keskittyvä valmennus- ja teknologiayhtiö. 
-    Tuomme henkilökohtaisen terveys- ja hyvinvointivalmennuksen jokaisen ulottuville.
-    Asiakkaitamme ovat yritykset, yhteisöt ja julkinen sektori – tahot, 
-    joille ihmisten terveys ja hyvinvointi ovat tärkeä osa toimintaa.
+  img: movendos_logo_rev2017.png
+  slogan: Digitaalisia ratkaisuja yksilön hyvinvoinnin ja terveyden edistämiseen.
+  text: Toteutamme räätälöityjä digitaalisia ratkaisuja, jotka mahdollistavat kustannustehokkaat 
+    palvelut ja hyvän asiakaskokemuksen. Tarjoamme palveluja esimerkiksi ajanvaraukseen, 
+    kattaviin terveys- ja hyvinvointikartoituksiin, etävastaanottoon sekä 
+    palvelupolkuohjaukseen liittyen. Kehittämämme palvelut ja teknologia pohjautuvat 
+    käyttäytymis- ja terveystieteen tutkimukseen sekä yhteistyöhön alan asiantuntijoiden kanssa.
   link: http://www.movendos.com/
 
 - partner: Evolvit

@@ -578,13 +578,17 @@ a.partner-link {
     border-bottom: solid 1px #ccc;
 }
 
-
 a.partner-link:hover {
     border: solid 1px #ccc;
 }
 
 a.partner-link .row {
     margin-left: 0;
+}
+
+article .fa {
+    font-size: 2em;
+    margin-right: 20px;
 }
 
 div.partner-img img {
