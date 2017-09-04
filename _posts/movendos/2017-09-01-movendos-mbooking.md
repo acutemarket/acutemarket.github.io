@@ -9,6 +9,8 @@ logo: vitec/vitec_logo.png
 categories: ajanvaraus
 ---
 
+![mBooking image](/portfolio/movendos/movendos_mBooking_displays_rev3.jpg)
+
 - Oire- ja tarvepohjainen ajanvarausjärjestelmä, joka ohjaa asiakkaan sopivalle asiantuntijalle ja oikeaan toimipisteeseen oikeanmittaisella vastaanottoajalla.
 - Täysin räätälöitävissä ja brändättävissä työterveyden tarpeisiin
 - Ajanvarauksen jälkeen automaattinen ohjeistus vastaanottoon liittyen 

@@ -11,6 +11,8 @@ categories: dokumentointi
 
 Movendos mSurvey on tiiviissä yhteistyössä terveydenhuollon ammattilaisten ja tutkimustahojen kanssa kehitetty sähköinen terveyden ja hyvinvoinnin kartoitusratkaisu.
 
+![mSurvey image](/portfolio/movendos/movendos_mSurvey_syyskuu2017.jpg)
+
 - Kattava sisältö, joka kehittyy jatkuvasti: kokonaisvaltainen hyvinvointi, terveysseulat, työn kuormittavuus,  motivaatiokartoitus, asiakastyytyväisyys.
 - Perustuu tieteellisesti validoituihin menetelmiin.
 - Räätälöitävyyden ansiosta kyselyosiot voidaan valita kyselykohtaisesti
