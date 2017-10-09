@@ -8,8 +8,7 @@ img:
 logo: vitec/vitec_logo.png
 categories: ajanvaraus
 ---
-Resurssien Ajankäytön Seuranta -palvelu mahdollistaa henkilöstön kalenterien käyttöasteen seurannan ajantyyppien ja varausten perusteella. 
-Palvelu mahdollistaa myös historiatiedon oikaisun takautuvasti: ajanvarauksia on mahdollista luoda ja muokata myös menneelle ajalle.
+Resurssien Ajankäytön Seuranta -palvelu mahdollistaa henkilöstön kalenterien käyttöasteen seurannan ajan tyyppien ja varausten perusteella. 
 
 #### PALVELUN HYÖDYT
 
@@ -17,7 +16,6 @@ Ajankäytön seuranta
 
 - Mahdollistaa resurssien käyttöasteseurannan halutulla aikavälillä.
 - Nopeuttaa vastaanottoaikojen kappalemäärien ja kestojen seurantaa. 
-- Mahdollistaa ajanvarausten muokkaamisen ja teon takautuvasti.
 - Helpottaa henkilöstön omaa työajan käytön seuraamista.
 
 ### Ota yhteyttä

@@ -1,5 +1,5 @@
 ---
-title: Acute AdHoc-tietokantakysely
+title: Acute tietokantakysely
 intro: Poimi tietoa Acutesta ja ota listauksia omien tarpeidesi mukaisesti.
 date: 2017-06-21
 thumbnail: presentation_chart.png
@@ -9,7 +9,7 @@ layout: post
 categories: raportointi
 ---
 
-Acuten AdHoc-tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja jatkojalostamista. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa listamuotoisia kyselyjä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  
+Acuten tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja jatkojalostamista. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa listamuotoisia kyselyjä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  
 
 Työkalu toimii siten, että Acuteen lisätään toiminnallisuus, jolla voi toteuttaa ja käyttää räätälöityjä tietokantakyselyjä. Räätälöidyt tietokantakyselyt voidaan tehdä joko Vitecin asiantuntijan tai Acusfäärin IT-spesialistin toimesta. Toteutuksen jälkeen kysely on aina käytettävissä ilman erillistä "tilausta" tai pyyntöä. 
 
