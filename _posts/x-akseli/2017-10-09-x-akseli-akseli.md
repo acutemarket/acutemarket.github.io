@@ -3,13 +3,11 @@ title: AKSELI – asiakasvirran hallintajärjestelmä
 intro: Sujuvan asioinnin ja tehokkaan ajankäytön ratkaisu
 layout: post
 date: 2017-10-09
-thumbnail: Akseli_icon.png
+thumbnail: Akseli-icon.png
 img: 
 logo: vitec/vitec_logo.png
 categories: muut
 ---
-
-![Akseli image](/portfolio/x-akseli/Akseli-ilmoittautuminen.png)
 
 Akseli-järjestelmä automatisoi ja nopeuttaa asiakkaiden käsittelemistä, kun asiakas ohjataan ilmoittautumaan ja 
 saapumaan asiointipisteeseen  itsenäisesti. Henkilökunta näkee asiakkaan ilmoittautumisen suoraan Acute-järjestelmästä 
@@ -17,6 +15,8 @@ ja voi hyödyntää työajan tehokkaasti hoitamalla kulloinkin asiointiin valmii
 
 Akseli-järjestelmä on käytössä useilla Acutea hyödyntävillä työterveyshuollon toimijoilla ympäri Suomen, 
 esimerkiksi Kuopiossa, Tampereella ja Jyväskylässä.
+
+![Akseli image](/portfolio/x-akseli/Akseli-ilmoittautuminen.png)
 
 ### Akseli-järjestelmä sisältää
 
