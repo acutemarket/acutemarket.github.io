@@ -4,13 +4,17 @@ title: Acusfäärin kumppaneille
 intro: Acute Market on Acute-ekosysteemin näyteikkuna, jossa koko Acusfäärin
   palvelukirjo on keskitetetysti esillä. Haluatko saada omia tuotteitasi tai palvelujasi näkyville Acute Markettiin? Hienoa!
   Tälle sivulle on kasattu tietopaketti, jolla pääset hyvin alkuun.
+contact-name: Pekka Heimonen
 contact-email: pekka.heimonen@vitecsoftware.com
 contact-tel: +358 40 751 2007
+contact2-name: Juha Korhonen
+contact2-email: juha.korhonen@vitecsoftware.com
+contact2-tel: +358 50 3607 096
 ---
 
 ## Pikaopas
 
-Acute Market -webbisaitin sourcet ovat julkisia, ne löytyvät GitHubista, osoitteesta 
+Oman sisältösi Acute Markettiin voit toimittaa joko sähköpostilla [meille](#contact), tai voit editoida sisällön suoraan webbisaitille, sillä Acute Market -webbisaitin sourcet ovat julkisia. Sourcet löytyvät GitHubista, osoitteesta 
 [https://github.com/acutemarket/acutemarket.github.io](https://github.com/acutemarket/acutemarket.github.io).
 Tuotekuvaukset löytyvät ```_posts``` hakemistosta ja ne kirjoitetaan [markdown-syntaksilla](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -23,11 +27,11 @@ Editoi sisältö omien tuotteidesi osalta haluamaksesi GitHub-prosessilla, eli
     4. Et voilà, se on siinä.
 ```
 
-## Tarkemmat ohjeet
+## Tarkemmat ohjeet GitHubiin
 
 Näissä ohjeissa oletetaan, että sinulla on työasemassasi Git ja tunnet sen käytön ennestään. 
 Jos Git ei (vielä) kuulu työkaluvalikoimiisi, niin ei huolta, saat tuotettua Acute Markettiin 
-sisältöä muutenkin, mutta prosessi on monimutkaisempi, [ota yhteyttä!](#contact).
+sisältöä muutenkin, yksinkertaisimmillaan vaikka toimittamalla tekstit ja kuvat sähköpostilla, [ota yhteyttä!](#contact)
 
 ### 1 - Kloonaa AcuteMarket-repository itsellesi
 
