@@ -41,23 +41,29 @@
     <div class="content">
         <div class="container">
             <div class="row">
+            {% if page.imagesize == "large" %}
+                <article class="post col-md-8 col-md-offset-2 hentry large-img">
+            {% else if page.imagesize == "large-single-img" %}
+                <article class="post col-md-8 col-md-offset-2 hentry large-single-img">
+            {% else %}
                 <article class="post col-md-8 col-md-offset-2 hentry">
-                    <div class="heading">
-                        {% if page.thumbnail %}
-                        <div class="heading-div">
-                            <img class="thumb" src="/icons/{{ page.thumbnail }}">
-                        </div>
-                        {% endif %}
-                        <div class="heading-div">
-                            <h1>                  
-                                {{ page.title }}
-                            </h1>
-                        </div>
+            {% endif %}
+                <div class="heading">
+                    {% if page.thumbnail %}
+                    <div class="heading-div">
+                        <img class="thumb" src="/icons/{{ page.thumbnail }}">
                     </div>
-                    {%if page.intro %}
-                    <p class="ingress">{{ page.intro }}</p>
                     {% endif %}
-                    {{ content }}
+                    <div class="heading-div">
+                        <h1>                  
+                            {{ page.title }}
+                        </h1>
+                    </div>
+                </div>
+                {%if page.intro %}
+                <p class="ingress">{{ page.intro }}</p>
+                {% endif %}                    
+                {{ content }}
                 </article>
             </div>
         </div>

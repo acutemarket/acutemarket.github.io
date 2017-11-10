@@ -4,7 +4,6 @@ intro: Sujuvan asioinnin ja tehokkaan ajankäytön ratkaisu
 layout: post
 date: 2017-10-09
 thumbnail: Akseli-icon.png
-img: 
 logo: vitec/vitec_logo.png
 categories: muut
 ---
