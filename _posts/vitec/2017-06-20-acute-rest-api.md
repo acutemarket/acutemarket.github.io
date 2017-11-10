@@ -18,6 +18,10 @@ Acuten REST-API mahdollistaa ulkoisten sovellusten joustavan ja avoimen kytkemis
 ![Supernova](/portfolio/vitec/supernova.png)
 ![Developer](/portfolio/vitec/developer.png)
 
+Laskutus tapahtuu 100 000 kutsun portain: esimerkiksi 500 000 - 599 999 toteutunutta kutsua kuukaudessa on laskutuksessa sama kuin 500 000 kutsua.
+
+### Lisäinfoa
+
 REST-API liikenne on samalla tavalla suojattua liikennettä kuin verkkopankkiliikenne ja sen käyttö lokitetaan EU:n tietoturva-asetuksen mukaisesti.
 
 Acute REST-API:n teknisen dokumentaation voit downloadata [täältä](/resources/Acute 6.1 REST API 2017-06-30.xlsx) Excel muodossa.
@@ -26,8 +30,7 @@ Acute REST-API:n teknisen dokumentaation voit downloadata [täältä](/resources
 
 ### Ota yhteyttä
 
-Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta:  
-
+Kysy lisää tai pyydä konsultaatiota REST-API:sta:  
 
 [myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
 puhelimella [03 3395 0910](tel://+358333950910).
