@@ -1,7 +1,9 @@
 <!-- Portfolio Grid Section -->
     <section id="portfolio" class="bg-light-gray">
         <div class="container">
+<!-- category tag filter buttons -->
             <div class="row first">
+<!-- category tag filter buttons -->
                 <div class="btn-group" data-toggle="buttons">
                     <label class="btn btn-info active" id="all-category">
                         <input type="radio" name="filter" checked>kaikki
@@ -13,14 +15,25 @@
                         <input type="radio" name="filter-{{ catname }}">{{ catname }}
                     </label>
                 {% endfor %}
+<!-- end category tag filter buttons -->
+<!-- company tag filter buttons -->
+                {% assign sorted_tags = site.tags | sort %}
+                {% for tag in sorted_tags %}
+                    {% assign tagname = tag | first %}
+                    <label class="btn btn-info" id="{{ tagname }}-category">
+                        <input type="radio" name="filter-{{ tagname }}">{{ tagname }}
+                    </label>
+                {% endfor %}
                 </div>
+<!-- end company tag filter buttons -->
             </div>
             <div class="row">
                 {% assign products = site.posts | sort: 'title' %}
                 {% for post in products %}
                 {% assign cats = post.categories | join:', ' %}
                 {% assign selectors = post.categories | join: '-category ' | append: '-category' %}
-                <div class="col-md-3 col-sm-6 portfolio-item all-category {{ selectors }}">
+                {% assign tags = post.tags | join: '-category ' | append: '-category' %}
+                <div class="col-md-3 col-sm-6 portfolio-item all-category {{ selectors }} {{ tags }}">
                     <a href="{{ post.url }}" class="portfolio-link">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">

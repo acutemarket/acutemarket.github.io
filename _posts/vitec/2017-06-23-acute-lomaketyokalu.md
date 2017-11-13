@@ -7,6 +7,7 @@ thumbnail: form.png
 img: 
 logo: vitec/vitec_logo.png
 categories: muut
+tags: vitec
 ---
 Acute Lomakkeet on interaktiivinen pdf-lomake-sovellus, joka mahdollistaa
 

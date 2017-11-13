@@ -6,6 +6,7 @@ date: 2017-06-20
 thumbnail: data_cloud.png
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot muut
+tags: vitec
 ---
 
 Acuten REST-API mahdollistaa ulkoisten sovellusten joustavan ja avoimen kytkemisen Acute-järjestelmään ja on usein tällaisen integraation edellytys. Yhteen REST-API:in voit liittää niin monta ulkoista järjestelmää kuin tarvitset. 

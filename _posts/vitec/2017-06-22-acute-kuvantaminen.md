@@ -7,6 +7,7 @@ thumbnail: portfolio_folder.png
 img: vitec/acute-kuvantaminen.png
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
+tags: vitec
 ---
 
 Kuvantamisliittymällä kuvantamismääräykset siirtyvät sähköisesti Acutesta kuvantamisen järjestelmiin ja tuloksia voidaan tarkastella suoraan

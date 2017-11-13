@@ -7,6 +7,7 @@ thumbnail: earth2.png
 img:
 logo: vitec/vitec_logo.png
 categories: ajanvaraus
+tags: vitec
 ---
 WWW-ajanvarauksen avulla asiakas voi varata ajan vastaanotolle nettiyhteyden kautta missä ja milloin vain. 
 Ajanvaraus onnistuu myös yleisimmillä mobiililaitteilla. Asiakkaat kirjautuvat www-ajanvaraukseen

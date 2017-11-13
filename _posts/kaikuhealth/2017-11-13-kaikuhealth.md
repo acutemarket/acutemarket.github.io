@@ -6,6 +6,7 @@ date: 2017-11-13
 thumbnail: control_panel.png
 logo: vitec/vitec_logo.png
 categories: muut
+tags: kaikuhealth
 ---
 
 Digitaalinen Kaiku Health –palvelu kerää potilailta tietoja hoitojen aikaisista oireista ja elämänlaadusta. Palvelun algoritmit analysoivat ja visualisoivat potilaiden raportoiman tiedon hoitohenkilökunnalle. Kaiku Health hälyttää hoitohenkilökuntaa potilaan tilan muutoksista ja vakavista oireista. Kaiku Health myös tukee potilasta hoitojen aikana antaen rutiiniohjeita potilaan raporttien perusteella. 

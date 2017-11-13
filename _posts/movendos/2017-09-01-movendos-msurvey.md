@@ -7,6 +7,7 @@ thumbnail: checkbox.png
 img: 
 logo: vitec/vitec_logo.png
 categories: dokumentointi
+tags: movendos
 ---
 
 Movendos mSurvey on tiiviissä yhteistyössä terveydenhuollon ammattilaisten ja tutkimustahojen kanssa kehitetty sähköinen terveyden ja hyvinvoinnin kartoitusratkaisu.

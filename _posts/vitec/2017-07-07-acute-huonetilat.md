@@ -7,6 +7,7 @@ thumbnail: office_building2.png
 img: 
 logo: vitec/vitec_logo.png
 categories: raportointi ajanvaraus
+tags: vitec
 ---
 
 Acuten huoneiden hallinta-toiminnallisuus mahdollistaa ammattilaisten sijoittamisen  eri tyyppisiin 

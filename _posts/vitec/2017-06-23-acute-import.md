@@ -7,6 +7,7 @@ thumbnail: folder_into.png
 img: 
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
+tags: vitec
 ---
 Acuten Import mahdollistaa potilastietojen ja yritysasiakkaiden perustietojen tuonnin ulkopuolisesta järjestelmästä  Acute-järjestelmään. Palvelua käytetään yleensä tilanteissa, joissa työterveyshuollon potilaita siirtyy toiselta palveluntarjoajalta tai vanhasta tietojärjestelmästä siirrytään Acute-järjestelmän käyttöön.
 

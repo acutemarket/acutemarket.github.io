@@ -7,6 +7,7 @@ thumbnail: pipette_test.png
 img: 
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot
+tags: vitec
 ---
 
 Laboratorioliittymä siirtää sähköisesti laboratoriomääräykset ja tutkimustulokset Acute-järjestelmän ja

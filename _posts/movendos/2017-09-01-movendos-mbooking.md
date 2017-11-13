@@ -7,6 +7,7 @@ thumbnail: calendar.png
 img: 
 logo: vitec/vitec_logo.png
 categories: ajanvaraus
+tags: movendos
 ---
 
 ![mBooking image](/portfolio/movendos/movendos_mBooking_displays_rev3.jpg)

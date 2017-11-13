@@ -7,6 +7,7 @@ thumbnail: document_text.png
 img: vitec/acute-lasku.png
 logo: vitec/vitec_logo.png
 categories: talous
+tags: vitec
 ---
 
 Laskuhotelli –verkkolaskupalvelu mahdollistaa verkkolaskujen automatisoidun lähetyksen Acute-järjestelmästä 

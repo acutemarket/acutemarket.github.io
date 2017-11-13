@@ -7,6 +7,7 @@ thumbnail: calendar_clock.png
 img: 
 logo: vitec/vitec_logo.png
 categories: ajanvaraus
+tags: vitec
 ---
 Resurssien Ajankäytön Seuranta -palvelu mahdollistaa henkilöstön kalenterien käyttöasteen seurannan ajan tyyppien ja varausten perusteella. 
 

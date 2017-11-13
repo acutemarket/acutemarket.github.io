@@ -7,6 +7,7 @@ thumbnail: users_relation.png
 img: 
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot muut
+tags: vitec
 ---
 
 Acuten Työnantaja-extranet mahdollistaa yritysasiakkaiden yhteydenpidon työterveyspalvelun tuottajaan. 

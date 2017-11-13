@@ -7,6 +7,7 @@ thumbnail: moneybag_euro.png
 img: vitec/acute-palkkio.png
 logo: vitec/vitec_logo.png
 categories: talous
+tags: vitec
 ---
 
 Acuten palkkiolaskenta mahdollistaa ammatinharjoittajien palkkioperusteiden joustavan määrittelyn, palkkioiden automaattisen laskennan sekä palkkioiden 

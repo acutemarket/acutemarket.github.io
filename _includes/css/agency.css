@@ -445,6 +445,10 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#portfolio .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle) {
+    border-radius: 0;
+}
+
 #portfolio .row.first {
     margin-bottom: 40px;
     padding-left: 20px;

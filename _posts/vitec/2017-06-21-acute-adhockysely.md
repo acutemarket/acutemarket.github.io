@@ -7,6 +7,7 @@ img: vitec/acute-adhoc.png
 logo: vitec/vitec_logo.png
 layout: post
 categories: raportointi
+tags: vitec
 ---
 
 Acuten tietokantakyselyt helpottavat Acuteen tallennettujen tietojen raportointia ja jatkojalostamista. Tietokantakysely-työkalu on yksinkertainen tapa poimia järjestelmään tallennettua tietoa ja toteuttaa listamuotoisia kyselyjä. Kerran määritelty ja toteutettu kysely on käytössä aina silloin kun sitä tarvitaan.  

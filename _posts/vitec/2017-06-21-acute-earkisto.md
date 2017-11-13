@@ -7,6 +7,7 @@ thumbnail: cabinet2.png
 img: vitec/acute-earkisto.png
 logo: vitec/vitec_logo.png
 categories: kanta
+tags: vitec
 ---
 
 Acuten eArkisto -palvelu mahdollistaa potilaskertomustietojen viennin Kelan sähköiseen potilastiedon 

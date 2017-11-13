@@ -7,6 +7,7 @@ thumbnail: bottle_of_pills.png
 img: vitec/acute-earkisto.png
 logo: vitec/vitec_logo.png
 categories: kanta
+tags: vitec
 ---
 Acuten eResepti sisältää eResepti-toiminnallisuuden ja sen sähköisten liittymien lisäksi muita lisätoimintoja, kuten uusimispyyntöjen käsittelyn. Palvelu on kiinteä, sisäänrakennettu osa Acute-järjestelmää. 
 

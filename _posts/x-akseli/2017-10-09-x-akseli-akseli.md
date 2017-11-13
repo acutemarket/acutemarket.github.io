@@ -6,6 +6,7 @@ date: 2017-10-09
 thumbnail: Akseli-icon.png
 logo: vitec/vitec_logo.png
 categories: muut
+tags: x-akseli
 ---
 
 Akseli-järjestelmä automatisoi ja nopeuttaa asiakkaiden käsittelemistä, kun asiakas ohjataan ilmoittautumaan ja 

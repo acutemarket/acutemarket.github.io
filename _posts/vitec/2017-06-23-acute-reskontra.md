@@ -7,6 +7,7 @@ thumbnail: hand_money.png
 img: 
 logo: vitec/vitec_logo.png
 categories: talous
+tags: vitec
 ---
 Acuten uusi reskontra -palvelu tarjoaa kattavan reskontratoiminnallisuuden, joka kytkeytyy suoraan järjestelmän muihin toimintoihin, kuten laskutukseen ja uuteen palkkiolaskentaan.
 
