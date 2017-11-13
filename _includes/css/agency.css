@@ -445,7 +445,7 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle) {
+#portfolio .btn-group>.btn {
     border-radius: 0;
 }
 
