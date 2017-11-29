@@ -314,7 +314,9 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: radial-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6) ), url('{{ site.baseurl }}/img/important2.jpg');
+/*    background-image: radial-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6) ), url('{{ site.baseurl }}/img/important2.jpg');
+*/
+    background-image: url('{{ site.baseurl }}/img/important2.jpg');
     background-position: center center;
     background-repeat: none;
     background-size: cover;
