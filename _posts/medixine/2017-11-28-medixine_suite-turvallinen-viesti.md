@@ -19,6 +19,15 @@ on asymmetristä viestintää, asiakas kirjoittaa viestin ja saa viestiinsä vas
 - Viestit tallentuvat palveluun ja viestiketjuja voivat lukea sekä asiakas että ammattilainen. 
 - Ilmoitus uudesta viestistä voidaan konfiguroida lähetettäväksi tekstiviestinä tai vastaanottajan sähköpostiin. Ilmoitusviestissä on vain linkki, josta asiakas pääsee siirtymään ja kirjautumaan palveluun.
 
+![Turvallinen viestinta.png](/portfolio/medixine/turvallinen viestinta.png)
+![Turvallinen viestinta toinen kuva.png](/portfolio/medixine/turvallinen viestinta 2.png)
+
 ### Ota yhteyttä
+
+[info@medixine.com](mailto://info@medixine.com)  
+
+[Puhelin 09 452 0020](tel://+35894520020)  
+
+[www.medixine.fi](http://www.medixine.fi)
 
 

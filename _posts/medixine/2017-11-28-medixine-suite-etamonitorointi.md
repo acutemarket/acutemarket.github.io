@@ -43,4 +43,10 @@ Medixine Suite Etämonitorointi –moduuli on erittäin monipuolinen:
 
 ### Ota yhteyttä
 
+[info@medixine.com](mailto://info@medixine.com)  
+
+[Puhelin 09 452 0020](tel://+35894520020)  
+
+[www.medixine.fi](http://www.medixine.fi)
+
 

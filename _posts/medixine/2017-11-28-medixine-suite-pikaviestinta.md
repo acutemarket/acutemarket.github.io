@@ -20,6 +20,14 @@ Pikaviestintä sisältää odotusaulat, joissa asiakas näkee jonotilanteen sek�
 -	Viestintä tallentuu palveluun, mutta voidaan myös tarvittaessa poistaa tietyn ajan kuluttua.
 -	Pikaviestintä voidaan liittää Medixine Suite videon yhteyteen.
 
+![chat UI.png](/portfolio/medixine/chat UI.png)  
+
 ### Ota yhteyttä
+
+[info@medixine.com](mailto://info@medixine.com)  
+
+[Puhelin 09 452 0020](tel://+35894520020)  
+
+[www.medixine.fi](http://www.medixine.fi)
 
 
