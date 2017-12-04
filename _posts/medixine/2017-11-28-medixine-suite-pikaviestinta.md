@@ -20,7 +20,7 @@ Pikaviestintä sisältää odotusaulat, joissa asiakas näkee jonotilanteen sek�
 -	Viestintä tallentuu palveluun, mutta voidaan myös tarvittaessa poistaa tietyn ajan kuluttua.
 -	Pikaviestintä voidaan liittää Medixine Suite videon yhteyteen.
 
-![chat UI.png](/portfolio/medixine/chat UI.png)  
+![Chat-screen-hcp-en.png](/portfolio/medixine/Chat-screen-hcp-en.png)  
 
 ### Ota yhteyttä
 
