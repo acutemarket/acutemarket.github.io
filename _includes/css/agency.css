@@ -53,6 +53,22 @@ ul.nav.portfolio-nav {
     padding-left: 6px;
 }
 
+.navbar-brand>span {
+    display: none;
+    text-transform: ;
+    font-size: 26px;
+    font-variant-caps: small-caps;
+}
+
+.navbar-shrink .navbar-brand>span {
+    display: inline;
+    color: #fff;
+}
+
+.navbar-shrink .navbar-brand>img {
+    display: none;
+}
+
 p {
     font-size: 16px;
     line-height: 1.3;
