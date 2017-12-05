@@ -20,7 +20,8 @@ on asymmetristä viestintää, asiakas kirjoittaa viestin ja saa viestiinsä vas
 - Ilmoitus uudesta viestistä voidaan konfiguroida lähetettäväksi tekstiviestinä tai vastaanottajan sähköpostiin. Ilmoitusviestissä on vain linkki, josta asiakas pääsee siirtymään ja kirjautumaan palveluun.
 
 ![Turvallinen viestinta.png](/portfolio/medixine/turvallinen viestinta.png)
-![Turvallinen viestinta toinen kuva.png](/portfolio/medixine/turvallinen viestinta 2.png)
+
+![Turvallinen viestinta toinen kuva.png](/portfolio/medixine/Messaging-list-hcp-en.png)
 
 ### Ota yhteyttä
 
