@@ -22,7 +22,7 @@ Medixine Suite Video mahdollistaa potilaan ja lääkärin interaktiivisen etäpa
 
 Samanaikaisesti Medixine Suite Video –moduulin kanssa voi käyttää Medixine Chat –moduulia. Yhteiskäytöllä videoyhteys rikastuu, kun liitetiedostoja ja linkkejä voidaan jakaa yhteyden aikana.
 
-![video ja chat.jpg](/portfolio/medixine/video ja chat.jpg)  
+![video ja chat.png](/portfolio/medixine/video ja chat.png)  
 
 Videon kuvan ja äänen laatu ovat erinomaiset. Videoyhteys perustuu Web-RTC teknologiaan, jota yleisimmät selaimet tukevat ilman erikseen asennettavia ohjelmistoja. Asiakas ja ammattilainen voivat käyttää PC:n, tabletin tai mobiililaitteen videokameraa. 
 
