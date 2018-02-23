@@ -93,3 +93,12 @@
   slogan: Terveydenhuollon kommunikaatio
   text: "Kotimainen Carecode kehittää tietoturvallista ja helppokäyttöistä kommunikaatiopalvelua ratkaisemaan terveydenhuollon viestinnän haasteita."
   link: https://carecode.fi
+
+- partner: Vihta-ajanvaraus 
+  img: vihta-ajanvaraus-logo-vihrea.png
+  slogan: Lisää löylyä ajanvaraukseen
+  text: "Vihta-ajanvaraus on Netorek Oy:n tuottama kotimainen, tietoturvallinen 
+    verkkoajanvarauspalvelu. Netorekin teknologiaosaaminen pohjautuu vuosien käytännön 
+    kokemukseen laajoista konsultointiprojekteista. Asiantuntijapalvelumme pitävät 
+    sisällään Red Hat -palvelut sekä Netorekin ohjelmisto- ja asiantuntijapalvelut."
+  link: https://www.vihta.com
