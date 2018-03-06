@@ -503,7 +503,7 @@ section h3.section-subheading {
 #portfolio .portfolio-video {
     position: absolute;
     top: 1em;
-    left: 80%;
+    right: 1em;
     z-index: 10;
     color: #cc181e;
 }
