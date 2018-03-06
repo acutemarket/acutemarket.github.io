@@ -1,5 +1,5 @@
 ---
-title: Acute verkkolasku
+title: Acute laskuhotelli
 intro: Sähköistä koko laskutusprosessisi, säästä työtä ja paranna samalla asiakaspalveluasi.
 layout: post
 date: 2017-06-20
