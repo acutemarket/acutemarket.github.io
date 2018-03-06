@@ -8,6 +8,7 @@ img:
 logo: vitec/vitec_logo.png
 categories: tiedonsiirrot muut
 tags: vitec
+video: true
 ---
 
 Acuten Työnantaja-extranet mahdollistaa yritysasiakkaiden yhteydenpidon työterveyspalvelun tuottajaan. 
@@ -15,6 +16,8 @@ Palvelun avulla asiakasyritys voi ylläpitää työntekijätietoja ja lähettä�
 suoraan työterveyshuollon potilastietojärjestelmään.
 
 Extranet on parametroitavissa ja sovitettavissa tarpeiden mukaan.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oMuReWd7wvs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### PALVELUN HYÖDYT
 

@@ -40,6 +40,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
+                        {% if post.video %}
+                        <div class="portfolio-video">
+                            <i class="fa fa-youtube fa-3x"></i>
+                        </div>
+                        {% endif %}
                         <div class="portfolio-img">
                             <span class="helper"></span>
                             <img src="/icons/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">

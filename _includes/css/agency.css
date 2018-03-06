@@ -500,6 +500,14 @@ section h3.section-subheading {
     margin: 25px 0 0 0;
 }
 
+#portfolio .portfolio-video {
+    position: absolute;
+    top: 1em;
+    left: 80%;
+    z-index: 10;
+    color: #cc181e;
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
