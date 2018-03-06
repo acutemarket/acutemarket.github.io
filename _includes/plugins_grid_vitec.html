@@ -16,18 +16,6 @@
                     </label>
                 {% endfor %}
 <!-- end category tag filter buttons -->
-<!-- company tag filter buttons -->
-                {% assign sorted_tags = site.tags | sort %}
-                {% for tag in sorted_tags %}
-                    {% assign tagname = tag | first %}
-                    {% if tagname != 'vitec' %}
-                    <label class="btn btn-info" id="{{ tagname }}-category">
-                        <input type="radio" name="filter-{{ tagname }}">{{ tagname }}
-                    </label>
-                    {% endif %}
-                {% endfor %}
-                </div>
-<!-- end company tag filter buttons -->
             </div>
             <div class="row">
                 {% assign products = site.posts | sort: 'title' %}
@@ -37,8 +25,7 @@
                 {% assign tags = post.tags | join: '-category ' | append: '-category' %}
                 {% assign tagname = post.tags | first %}
 
-                {% if tagname != 'vitec' %}
-                
+                {% if tagname == 'vitec' %}
                 <div class="col-md-3 col-sm-6 portfolio-item all-category {{ selectors }} {{ tags }}">
                     <a href="{{ post.url }}" class="portfolio-link">
                         <div class="portfolio-hover">

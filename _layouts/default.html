@@ -16,12 +16,18 @@
                 <a href="#portfolio-tab" data-toggle="tab" >Tuotteet ja palvelut</a>
             </li>
             <li>
+                <a href="#vitec-tab" data-toggle="tab" >Acuten lisäosat</a>
+            </li>
+            <li>
                 <a href="#partnerlist-tab" data-toggle="tab" >Yritykset</a>
             </li>
         </ul>
         <div class="tab-content">
             <div id="portfolio-tab" class="tab-pane fade in active">
                 {% include plugins_grid.html %}
+            </div>
+            <div id="vitec-tab" class="tab-pane fade in">
+                {% include plugins_grid_vitec.html %}
             </div>
             <div id="partnerlist-tab" class="tab-pane fade in">
                 {% include partnerlist.html %}
