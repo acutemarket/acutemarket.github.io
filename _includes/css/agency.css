@@ -60,6 +60,14 @@ ul.nav.portfolio-nav {
     font-variant-caps: small-caps;
 }
 
+.navbar-brand>div {
+    display: inline;
+    text-transform: ;
+    font-size: 26px;
+    font-variant-caps: small-caps;
+    color: #fff;
+}
+
 .navbar-shrink .navbar-brand>span {
     display: inline;
     color: #fff;
