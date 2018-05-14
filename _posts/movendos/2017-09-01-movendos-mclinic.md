@@ -6,7 +6,7 @@ date: 2017-09-01
 thumbnail: video_chat2.png
 img: 
 logo: vitec/vitec_logo.png
-categories: muut
+categories: etävastaanotto
 tags: movendos
 ---
 

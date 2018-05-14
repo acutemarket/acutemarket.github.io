@@ -5,7 +5,7 @@ layout: post
 date: 2017-12-01
 thumbnail: video_chat2.png
 logo: vitec/vitec_logo.png
-categories: muut
+categories: etävastaanotto
 tags: medixine
 ---
 
