@@ -7,9 +7,6 @@ intro: Acute Market on Acute-ekosysteemin näyteikkuna, jossa koko Acusfäärin
 contact-name: Pekka Heimonen
 contact-email: pekka.heimonen@vitecsoftware.com
 contact-tel: +358 40 751 2007
-contact2-name: Juha Korhonen
-contact2-email: juha.korhonen@vitecsoftware.com
-contact2-tel: +358 50 3607 096
 ---
 
 ## Pikaopas
