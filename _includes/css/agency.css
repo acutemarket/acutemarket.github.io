@@ -616,13 +616,13 @@ section h3.section-subheading {
 
 a.partner-link {
     display: block;
-    margin-bottom: 30px;
+    padding: 10px;
     border: solid 1px transparent;
     border-bottom: solid 1px #ccc;
 }
 
 a.partner-link:hover {
-    border: solid 1px #ccc;
+    background: #eee;
 }
 
 a.partner-link .row {
