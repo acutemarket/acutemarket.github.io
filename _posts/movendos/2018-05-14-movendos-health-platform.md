@@ -14,6 +14,8 @@ Movendos Health Platform on kokonaisratkaisu, joka sisältää kattavat viestint
 
 Movendos Health Platform-alustaan kuuluvat Movendos mSurvey-kartoituspalvelu, Movendos mBooking-ajanvaraus sekä Movendos mClinic-etävastaanotto.
 
+![mSurvey image](/portfolio/movendos/Movendos_HealthPlatform_logo_Classico.jpg)
+
 ### Yhteystiedot
 
 [www.movendos.com](http://www.movendos.com)  
