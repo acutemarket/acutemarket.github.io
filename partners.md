@@ -4,9 +4,9 @@ title: Acusfäärin kumppaneille
 intro: Acute Market on Acute-ekosysteemin näyteikkuna, jossa koko Acusfäärin
   palvelukirjo on keskitetetysti esillä. Haluatko saada omia tuotteitasi tai palvelujasi näkyville Acute Markettiin? Hienoa!
   Tälle sivulle on kasattu tietopaketti, jolla pääset hyvin alkuun.
-contact-name: Pekka Heimonen
-contact-email: pekka.heimonen@vitecsoftware.com
-contact-tel: +358 40 751 2007
+contact-name: Janne Vainio
+contact-email: janne.vainio@vitecsoftware.com
+contact-tel: +358 40 579 2115
 ---
 
 ## Pikaopas
