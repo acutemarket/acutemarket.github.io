@@ -55,21 +55,22 @@ ul.nav.portfolio-nav {
 
 .navbar-brand>span {
     display: none;
-    text-transform: ;
-    font-size: 26px;
+    /*text-transform: ;
+    font-size: 26px;*/
     font-variant-caps: small-caps;
 }
 
 .navbar-brand>div {
     display: inline;
-    text-transform: ;
-    font-size: 26px;
+    /*text-transform: ;
+    font-size: 26px;*/
     font-variant-caps: small-caps;
     color: #fff;
 }
 
 .navbar-shrink .navbar-brand>span {
     display: inline;
+    font-size: 26px;
     color: #fff;
 }
 
@@ -237,7 +238,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
-    padding: 0 0 0 21px;
+    /*padding: 0 0 0 21px;*/
 }
 
 .navbar-default .navbar-brand:hover,
@@ -314,7 +315,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 3em;
+        /*font-size: 3em;*/
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -330,7 +331,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 3em;
+        /*font-size: 3em;*/
     }
 }
 
