@@ -106,22 +106,24 @@
 - partner: Diktamen
   img: logo-diktamen.gif
   slogan: Diktamen nopeuttaa potilastietojen kirjaamista ja vapauttaa aikaa tietojärjestelmien käytöstä hoitotyöhön.
-  text: "Diktamen tarjoaa markkinoiden monipuolisimman järjestelmän ja joustavimman 
-    sanelunpurkupalvelun potilastietojen tuottamiseen. Palvelumme nopeuttaa kirjausten 
-    tekemistä potilastietojärjestelmiin ja ammattilaisten aikaa vapautuu hoitotyöhön."
+  text: "Diktamen tarjoaa markkinoiden monipuolisimman järjestelmän ja joustavimman sanelunpurkupalvelun potilastietojen tuottamiseen. Palvelumme nopeuttaa kirjausten tekemistä potilastietojärjestelmiin ja ammattilaisten aikaa vapautuu hoitotyöhön."
   link: https://diktamen.com/
 
 - partner: Physiotools
   img: physiotools-lowres.png
   slogan: Paras tapa laatia yksilöllisiä harjoitusohjelmia
-  text: "PhysioToolsilla laadit yksilöllisiä harjoitusohjelmia nopeasti ja helposti, 
-    valitset harjoitteet laajasta valikoimasta erikoisaloja ja motivoit asiakkaitasi harjoittelemaan."
+  text: "PhysioToolsilla laadit yksilöllisiä harjoitusohjelmia nopeasti ja helposti, valitset harjoitteet laajasta valikoimasta erikoisaloja ja motivoit asiakkaitasi harjoittelemaan."
   link: http://www.physiotools.fi
 
 - partner: Kustannus Oy Duodecim 
   img: DUODECIM_logo.png
   slogan: 
-  text: Kustannus Oy Duodecim on julkaissut jo vuodesta 1881 asti laadukasta suomenkielistä tietosisältöä terveydenhuollon ammattilaisille. Duodecim tuottaa myös kansalaisille luotettavaa ja ymmärrettävää tietoa terveydestä ja sairauksista. 
-    Duodecimin digitaalisia tuotteita ovat Terveysportti, Oppiportti, Päätöksentuki EBMeDS ja Kansalaisen sähköiset palvelut.
+  text: Kustannus Oy Duodecim on julkaissut jo vuodesta 1881 asti laadukasta suomenkielistä tietosisältöä terveydenhuollon ammattilaisille. Duodecim tuottaa myös kansalaisille luotettavaa ja ymmärrettävää tietoa terveydestä ja sairauksista. Duodecimin digitaalisia tuotteita ovat Terveysportti, Oppiportti, Päätöksentuki EBMeDS ja Kansalaisen sähköiset palvelut.
   link: https://www.duodecim.fi/kustannus/
+
+- partner: Visiba Care
+  img: VisibaCare-logotype-2017.svg
+  slogan: Lähde mukaan matkalle kohti tulevaisuuden hoitopalveluita
+  text: Visiba Care on e-terveysalusta, jolla Suomen hoitoalan palveluntarjoajat voivat avata omia digitaalisia vastaanottojaan. Kehitämme yhdessä kestäviä hoitopalveluita, joita on helppo käyttää ja jotka ovat kaikkien saatavilla.
+  link: https://www.visibacare.com/
   
