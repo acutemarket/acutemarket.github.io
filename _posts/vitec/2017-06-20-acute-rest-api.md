@@ -33,5 +33,5 @@ Acute REST-API:n teknisen dokumentaation voit ladata [täältä](/resources/Acut
 
 Kysy lisää tai pyydä konsultaatiota REST-API:sta:  
 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+[myynti.acute@vitecsoftware.com](mailto://myynti.acute@vitecsoftware.com) tai  
 puhelimella [03 3395 0910](tel://+358333950910).

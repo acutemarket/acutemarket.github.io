@@ -29,5 +29,5 @@ Määräys siirtyy automaattisesti laboratorioon ja tulos siirtyy automaattisest
 ### Ota yhteyttä
 
 Kysy lisää tai pyydä yksityiskohtainen kuvaus tästä Acuten lisäpalvelusta: 
-[myynti@vitecsoftware.com](mailto://myynti@vitecsoftware.com) tai  
+[myynti.acute@vitecsoftware.com](mailto://myynti.acute@vitecsoftware.com) tai  
 puhelimella [03 3395 0910](tel://+358333950910).
