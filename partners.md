@@ -7,6 +7,9 @@ intro: Acute Market on Acute-ekosysteemin näyteikkuna, jossa koko Acusfäärin
 contact-name: Janne Vainio
 contact-email: janne.vainio@vitecsoftware.com
 contact-tel: +358 40 579 2115
+contact2-name: Myynti
+contact2-email: myynti.acute@vitecsoftware.com
+contact2-tel:  03 3395 0910
 ---
 
 ## Pikaopas

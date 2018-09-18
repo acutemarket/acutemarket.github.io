@@ -32,6 +32,17 @@
                             Puhelin:
                             <a href="tel://{{ page.contact-tel | remove: ' ' }}">{{ page.contact-tel }}</a>
                         </p>
+                        <h4>
+                            {{ page.contact2-name }}
+                        </h4>
+                        <p>
+                            Sähköposti:
+                            <a href="mailto://{{ page.contact2-email }}">{{ page.contact2-email }}</a>
+                        </p>
+                        <p>
+                            Puhelin:
+                            <a href="tel://{{ page.contact2-tel | remove: ' ' }}">{{ page.contact2-tel }}</a>
+                        </p>
                         {{ content }}
                     </article>
                 </div>
