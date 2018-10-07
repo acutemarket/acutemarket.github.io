@@ -1,4 +1,4 @@
-<head>
+﻿<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Google Tag Manager -->
@@ -34,4 +34,10 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+     <!-- Google Analytics stuff starts: https://desiredpersona.com/google-analytics-jekyll/ -->
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+    <!-- Google Analytics stuff ends-->
 </head>

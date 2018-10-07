@@ -25,3 +25,6 @@ address:
 markdown: kramdown
 
 permalink: pretty
+
+# Google Analytics
+google_analytics: UA—118063591-3
