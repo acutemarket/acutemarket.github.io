@@ -25,7 +25,7 @@ REST-API liikenne on samalla tavalla suojattua liikennettä kuin verkkopankkilii
 
 ### API-dokumentaatio
 
-Acute REST-API:n teknisen dokumentaation voit ladata [täältä](/resources/Acute 6.1 REST API 2018-10-10.xlsx) Excel-muodossa (päivitetty 2018-10-10).
+Acute REST-API:n teknisen dokumentaation voit ladata [täältä](/resources/Acute 6.1 REST API 2018-10-24.xlsx) Excel-muodossa (päivitetty 2018-10-24).
 
 ![Acusfääri](/portfolio/vitec/acute-rest-code.png)
 
