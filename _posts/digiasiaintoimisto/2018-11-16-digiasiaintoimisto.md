@@ -6,8 +6,8 @@ date: 2018-11-16
 thumbnail: satellite.png
 img: small_logo.png
 logo: vitec/vitec_logo.png
-categories: konsultointi
-tags: konsultointi kehitys
+categories: konsultointi kehitys
+tags: digiasiaintoimisto
 video: false
 ---
 
